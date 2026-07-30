@@ -1,0 +1,1246 @@
+codigo,nome,categoria,marca_peca,posicao,preco,disponivel,equivalencias
+IB-0001,Pivô de suspensão,Suspensão,Ibirapuera,Dianteira direita,"411,12",sim,TT-0023;VG-0015
+IB-0002,Amortecedor dianteiro,Suspensão,Ibirapuera,Dianteira direita,"441,16",sim,AN-0003
+AN-0001,Amortecedor traseiro,Suspensão,Anhembi,Traseira,"359,80",sim,JG-0005;TT-0025
+VG-0001,Mola helicoidal dianteira,Suspensão,Vergueiro,Dianteira,"466,68",sim,IB-0027;JG-0006
+AN-0002,Pivô de suspensão,Suspensão,Anhembi,Dianteira esquerda,"307,71",sim,AN-0019;PJ-0035
+VG-0002,Bieleta da barra estabilizadora,Suspensão,Vergueiro,Dianteira direita,"128,05",sim,TT-0028;TT-0006
+IB-0003,Amortecedor traseiro,Suspensão,Ibirapuera,Traseira,"429,05",sim,JG-0007;TT-0021
+JG-0001,Bandeja de suspensão dianteira,Suspensão,Jaraguá,Dianteira direita,"267,90",sim,VG-0021
+TT-0001,Coxim do amortecedor dianteiro,Suspensão,Tietê,Dianteira,"472,26",sim,AN-0015;AN-0011
+AN-0003,Amortecedor dianteiro,Suspensão,Anhembi,Dianteira direita,"222,56",não,PJ-0025;PJ-0016
+AN-0004,Mola helicoidal dianteira,Suspensão,Anhembi,Dianteira,"416,24",sim,IB-0020
+JG-0002,Coxim do amortecedor dianteiro,Suspensão,Jaraguá,Dianteira,"303,20",sim,PJ-0011
+PJ-0001,Amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira direita,"389,00",sim,AN-0039;AN-0017
+AN-0005,Amortecedor traseiro,Suspensão,Anhembi,Traseira,"452,53",sim,IB-0012
+PJ-0002,Bieleta da barra estabilizadora,Suspensão,Pirajuçara,Dianteira direita,"213,41",sim,TT-0011
+AN-0006,Pivô de suspensão,Suspensão,Anhembi,Dianteira direita,"424,09",sim,PJ-0015;TT-0023
+VG-0003,Bandeja de suspensão dianteira,Suspensão,Vergueiro,Dianteira direita,"372,72",sim,IB-0021;AN-0018
+JG-0003,Mola helicoidal dianteira,Suspensão,Jaraguá,Dianteira,"375,88",sim,JG-0006
+VG-0004,Amortecedor traseiro,Suspensão,Vergueiro,Traseira,"295,57",sim,IB-0003;IB-0009
+IB-0004,Amortecedor dianteiro,Suspensão,Ibirapuera,Dianteira esquerda,"277,63",sim,TT-0008;TT-0015
+TT-0002,Coxim do amortecedor dianteiro,Suspensão,Tietê,Dianteira,"177,50",sim,JG-0002;AN-0024
+IB-0005,Amortecedor traseiro,Suspensão,Ibirapuera,Traseira,"451,67",sim,TT-0021;VG-0012
+VG-0005,Coxim do amortecedor dianteiro,Suspensão,Vergueiro,Dianteira,"453,75",sim,PJ-0029;JG-0002
+AN-0007,Pivô de suspensão,Suspensão,Anhembi,Dianteira esquerda,"475,86",não,TT-0019
+JG-0004,Mola helicoidal dianteira,Suspensão,Jaraguá,Dianteira,"362,70",sim,AN-0010
+PJ-0003,Bandeja de suspensão dianteira,Suspensão,Pirajuçara,Dianteira direita,"379,45",sim,TT-0024;IB-0022
+TT-0003,Pivô de suspensão,Suspensão,Tietê,Dianteira esquerda,"437,22",sim,TT-0010;PJ-0035
+IB-0006,Bandeja de suspensão dianteira,Suspensão,Ibirapuera,Dianteira direita,"276,29",sim,PJ-0003
+AN-0008,Coxim do amortecedor dianteiro,Suspensão,Anhembi,Dianteira,"190,21",sim,VG-0005
+IB-0007,Amortecedor dianteiro,Suspensão,Ibirapuera,Dianteira esquerda,"354,82",não,AN-0009;TT-0020
+VG-0006,Mola helicoidal dianteira,Suspensão,Vergueiro,Dianteira,"397,94",sim,JG-0004
+PJ-0004,Amortecedor traseiro,Suspensão,Pirajuçara,Traseira,"211,91",sim,TT-0013;AN-0014
+TT-0004,Coxim do amortecedor dianteiro,Suspensão,Tietê,Dianteira,"446,45",sim,AN-0008;PJ-0032
+VG-0007,Amortecedor traseiro,Suspensão,Vergueiro,Traseira,"132,49",sim,TT-0016;AN-0001
+AN-0009,Amortecedor dianteiro,Suspensão,Anhembi,Dianteira esquerda,"309,50",sim,IB-0008;TT-0020
+PJ-0005,Bandeja de suspensão dianteira,Suspensão,Pirajuçara,Dianteira direita,"239,05",sim,JG-0001
+PJ-0006,Pivô de suspensão,Suspensão,Pirajuçara,Dianteira esquerda,"417,39",sim,AN-0007
+PJ-0007,Mola helicoidal dianteira,Suspensão,Pirajuçara,Dianteira,"307,53",sim,VG-0006;PJ-0018
+AN-0010,Mola helicoidal dianteira,Suspensão,Anhembi,Dianteira,"295,34",sim,IB-0019;PJ-0033
+IB-0008,Amortecedor dianteiro,Suspensão,Ibirapuera,Dianteira esquerda,"267,17",sim,TT-0020;IB-0010
+IB-0009,Amortecedor traseiro,Suspensão,Ibirapuera,Traseira,"273,16",não,IB-0014
+VG-0008,Pivô de suspensão,Suspensão,Vergueiro,Dianteira esquerda,"172,71",sim,VG-0025
+PJ-0008,Bieleta da barra estabilizadora,Suspensão,Pirajuçara,Dianteira esquerda,"181,07",sim,IB-0017;TT-0022
+TT-0005,Bandeja de suspensão dianteira,Suspensão,Tietê,Dianteira esquerda,"278,11",sim,TT-0012
+AN-0011,Coxim do amortecedor dianteiro,Suspensão,Anhembi,Dianteira,"370,21",sim,AN-0022
+PJ-0009,Coxim do amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira,"262,10",sim,TT-0004;VG-0018
+IB-0010,Amortecedor dianteiro,Suspensão,Ibirapuera,Dianteira esquerda,"470,78",sim,VG-0023;IB-0008
+PJ-0010,Pivô de suspensão,Suspensão,Pirajuçara,Dianteira esquerda,"392,01",sim,VG-0008
+TT-0006,Bieleta da barra estabilizadora,Suspensão,Tietê,Dianteira direita,"176,55",sim,VG-0022
+AN-0012,Bieleta da barra estabilizadora,Suspensão,Anhembi,Dianteira direita,"437,57",não,VG-0022;VG-0002
+AN-0013,Mola helicoidal dianteira,Suspensão,Anhembi,Dianteira,"266,62",sim,IB-0020
+VG-0009,Amortecedor dianteiro,Suspensão,Vergueiro,Dianteira direita,"251,70",não,IB-0002
+JG-0005,Amortecedor traseiro,Suspensão,Jaraguá,Traseira,"286,27",sim,JG-0022
+PJ-0011,Coxim do amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira,"174,40",sim,VG-0024;PJ-0017
+VG-0010,Bandeja de suspensão dianteira,Suspensão,Vergueiro,Dianteira direita,"475,65",sim,IB-0026;PJ-0005
+AN-0014,Amortecedor traseiro,Suspensão,Anhembi,Traseira,"467,12",sim,TT-0021;IB-0005
+AN-0015,Coxim do amortecedor dianteiro,Suspensão,Anhembi,Dianteira,"172,45",sim,PJ-0014
+PJ-0012,Bandeja de suspensão dianteira,Suspensão,Pirajuçara,Dianteira direita,"263,68",sim,VG-0021
+TT-0007,Bieleta da barra estabilizadora,Suspensão,Tietê,Dianteira direita,"402,33",sim,VG-0002
+AN-0016,Mola helicoidal dianteira,Suspensão,Anhembi,Dianteira,"189,37",sim,JG-0006;VG-0006
+VG-0011,Coxim do amortecedor dianteiro,Suspensão,Vergueiro,Dianteira,"456,38",sim,TT-0001;PJ-0009
+PJ-0013,Amortecedor traseiro,Suspensão,Pirajuçara,Traseira,"197,20",sim,TT-0021
+TT-0008,Amortecedor dianteiro,Suspensão,Tietê,Dianteira esquerda,"172,46",sim,AN-0029
+IB-0011,Bieleta da barra estabilizadora,Suspensão,Ibirapuera,Dianteira esquerda,"262,45",sim,JG-0020;JG-0019
+AN-0017,Amortecedor dianteiro,Suspensão,Anhembi,Dianteira direita,"373,16",não,AN-0003
+AN-0018,Bandeja de suspensão dianteira,Suspensão,Anhembi,Dianteira direita,"348,92",sim,VG-0010;IB-0006
+VG-0012,Amortecedor traseiro,Suspensão,Vergueiro,Traseira,"311,85",sim,AN-0001;TT-0026
+PJ-0014,Coxim do amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira,"227,69",sim,JG-0009;PJ-0032
+PJ-0015,Pivô de suspensão,Suspensão,Pirajuçara,Dianteira direita,"274,72",sim,AN-0034;AN-0006
+JG-0006,Mola helicoidal dianteira,Suspensão,Jaraguá,Dianteira,"449,27",sim,PJ-0033
+JG-0007,Amortecedor traseiro,Suspensão,Jaraguá,Traseira,"151,35",não,JG-0005;PJ-0023
+TT-0009,Bieleta da barra estabilizadora,Suspensão,Tietê,Dianteira direita,"164,99",sim,AN-0027;IB-0015
+JG-0008,Mola helicoidal dianteira,Suspensão,Jaraguá,Dianteira,"131,08",sim,PJ-0018;PJ-0024
+JG-0009,Coxim do amortecedor dianteiro,Suspensão,Jaraguá,Dianteira,"325,75",sim,IB-0018
+TT-0010,Pivô de suspensão,Suspensão,Tietê,Dianteira esquerda,"273,60",sim,IB-0025
+IB-0012,Amortecedor traseiro,Suspensão,Ibirapuera,Traseira,"187,01",sim,JG-0018
+VG-0013,Bieleta da barra estabilizadora,Suspensão,Vergueiro,Dianteira direita,"450,48",sim,AN-0027
+JG-0010,Amortecedor dianteiro,Suspensão,Jaraguá,Dianteira direita,"145,69",não,AN-0039;PJ-0031
+IB-0013,Mola helicoidal dianteira,Suspensão,Ibirapuera,Dianteira,"448,54",sim,PJ-0007
+AN-0019,Pivô de suspensão,Suspensão,Anhembi,Dianteira esquerda,"162,73",sim,AN-0007
+VG-0014,Bandeja de suspensão dianteira,Suspensão,Vergueiro,Dianteira esquerda,"308,32",sim,PJ-0028
+JG-0011,Bandeja de suspensão dianteira,Suspensão,Jaraguá,Dianteira esquerda,"416,51",sim,JG-0017
+JG-0012,Mola helicoidal dianteira,Suspensão,Jaraguá,Dianteira,"254,82",sim,IB-0019
+TT-0011,Bieleta da barra estabilizadora,Suspensão,Tietê,Dianteira direita,"396,27",sim,PJ-0034;VG-0013
+IB-0014,Amortecedor traseiro,Suspensão,Ibirapuera,Traseira,"325,71",sim,TT-0013;IB-0028
+TT-0012,Bandeja de suspensão dianteira,Suspensão,Tietê,Dianteira esquerda,"166,77",sim,AN-0032
+AN-0020,Mola helicoidal dianteira,Suspensão,Anhembi,Dianteira,"198,50",sim,IB-0019
+AN-0021,Bieleta da barra estabilizadora,Suspensão,Anhembi,Dianteira direita,"338,28",sim,VG-0022;TT-0006
+VG-0015,Pivô de suspensão,Suspensão,Vergueiro,Dianteira direita,"467,84",não,TT-0018
+TT-0013,Amortecedor traseiro,Suspensão,Tietê,Traseira,"325,05",sim,PJ-0023;VG-0016
+PJ-0016,Amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira direita,"301,10",sim,JG-0010
+AN-0022,Coxim do amortecedor dianteiro,Suspensão,Anhembi,Dianteira,"406,41",não,PJ-0032
+IB-0015,Bieleta da barra estabilizadora,Suspensão,Ibirapuera,Dianteira direita,"329,67",sim,TT-0009
+TT-0014,Bandeja de suspensão dianteira,Suspensão,Tietê,Dianteira direita,"428,82",sim,JG-0001
+AN-0023,Amortecedor traseiro,Suspensão,Anhembi,Traseira,"145,48",sim,TT-0013;AN-0037
+JG-0013,Bieleta da barra estabilizadora,Suspensão,Jaraguá,Dianteira direita,"353,11",sim,TT-0028
+VG-0016,Amortecedor traseiro,Suspensão,Vergueiro,Traseira,"136,21",sim,PJ-0020;VG-0007
+AN-0024,Coxim do amortecedor dianteiro,Suspensão,Anhembi,Dianteira,"175,95",não,TT-0002;JG-0009
+AN-0025,Mola helicoidal dianteira,Suspensão,Anhembi,Dianteira,"429,90",não,IB-0020;AN-0016
+TT-0015,Amortecedor dianteiro,Suspensão,Tietê,Dianteira esquerda,"306,56",não,AN-0029
+IB-0016,Bandeja de suspensão dianteira,Suspensão,Ibirapuera,Dianteira esquerda,"230,02",sim,TT-0005
+JG-0014,Pivô de suspensão,Suspensão,Jaraguá,Dianteira esquerda,"326,21",sim,PJ-0010
+JG-0015,Bandeja de suspensão dianteira,Suspensão,Jaraguá,Dianteira direita,"245,31",sim,IB-0026
+AN-0026,Pivô de suspensão,Suspensão,Anhembi,Dianteira direita,"226,99",sim,TT-0023
+AN-0027,Bieleta da barra estabilizadora,Suspensão,Anhembi,Dianteira direita,"377,89",sim,TT-0007;AN-0021
+PJ-0017,Coxim do amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira,"432,09",sim,VG-0020
+PJ-0018,Mola helicoidal dianteira,Suspensão,Pirajuçara,Dianteira,"338,34",sim,AN-0025;AN-0010
+IB-0017,Bieleta da barra estabilizadora,Suspensão,Ibirapuera,Dianteira esquerda,"399,08",sim,IB-0024;IB-0011
+AN-0028,Coxim do amortecedor dianteiro,Suspensão,Anhembi,Dianteira,"418,97",sim,VG-0017
+PJ-0019,Pivô de suspensão,Suspensão,Pirajuçara,Dianteira direita,"147,78",sim,AN-0006
+TT-0016,Amortecedor traseiro,Suspensão,Tietê,Traseira,"340,20",sim,IB-0028
+TT-0017,Mola helicoidal dianteira,Suspensão,Tietê,Dianteira,"456,72",sim,JG-0008
+JG-0016,Amortecedor dianteiro,Suspensão,Jaraguá,Dianteira direita,"402,52",não,PJ-0025
+PJ-0020,Amortecedor traseiro,Suspensão,Pirajuçara,Traseira,"218,80",sim,AN-0014
+AN-0029,Amortecedor dianteiro,Suspensão,Anhembi,Dianteira esquerda,"185,52",sim,AN-0035
+PJ-0021,Bieleta da barra estabilizadora,Suspensão,Pirajuçara,Dianteira esquerda,"165,90",sim,IB-0024;IB-0017
+JG-0017,Bandeja de suspensão dianteira,Suspensão,Jaraguá,Dianteira esquerda,"363,83",sim,IB-0016;AN-0038
+IB-0018,Coxim do amortecedor dianteiro,Suspensão,Ibirapuera,Dianteira,"264,86",sim,VG-0011;PJ-0029
+IB-0019,Mola helicoidal dianteira,Suspensão,Ibirapuera,Dianteira,"318,46",sim,AN-0025
+TT-0018,Pivô de suspensão,Suspensão,Tietê,Dianteira direita,"417,76",não,PJ-0019
+JG-0018,Amortecedor traseiro,Suspensão,Jaraguá,Traseira,"375,74",sim,VG-0016
+VG-0017,Coxim do amortecedor dianteiro,Suspensão,Vergueiro,Dianteira,"402,00",sim,PJ-0022
+IB-0020,Mola helicoidal dianteira,Suspensão,Ibirapuera,Dianteira,"221,33",sim,TT-0017
+AN-0030,Bandeja de suspensão dianteira,Suspensão,Anhembi,Dianteira direita,"458,57",sim,IB-0026;VG-0021
+TT-0019,Pivô de suspensão,Suspensão,Tietê,Dianteira esquerda,"288,58",sim,PJ-0006
+TT-0020,Amortecedor dianteiro,Suspensão,Tietê,Dianteira esquerda,"183,05",sim,AN-0029;IB-0010
+PJ-0022,Coxim do amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira,"313,52",sim,VG-0005;AN-0008
+JG-0019,Bieleta da barra estabilizadora,Suspensão,Jaraguá,Dianteira esquerda,"467,59",sim,PJ-0008;JG-0020
+IB-0021,Bandeja de suspensão dianteira,Suspensão,Ibirapuera,Dianteira direita,"186,41",sim,JG-0015
+AN-0031,Pivô de suspensão,Suspensão,Anhembi,Dianteira esquerda,"134,73",sim,VG-0025
+PJ-0023,Amortecedor traseiro,Suspensão,Pirajuçara,Traseira,"223,13",sim,PJ-0004
+VG-0018,Coxim do amortecedor dianteiro,Suspensão,Vergueiro,Dianteira,"412,41",sim,AN-0008;VG-0011
+IB-0022,Bandeja de suspensão dianteira,Suspensão,Ibirapuera,Dianteira direita,"351,64",sim,JG-0015;VG-0021
+PJ-0024,Mola helicoidal dianteira,Suspensão,Pirajuçara,Dianteira,"157,16",sim,JG-0008;JG-0021
+PJ-0025,Amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira direita,"246,17",sim,PJ-0031;AN-0017
+JG-0020,Bieleta da barra estabilizadora,Suspensão,Jaraguá,Dianteira esquerda,"159,17",sim,IB-0011;PJ-0008
+TT-0021,Amortecedor traseiro,Suspensão,Tietê,Traseira,"407,73",sim,TT-0025
+IB-0023,Coxim do amortecedor dianteiro,Suspensão,Ibirapuera,Dianteira,"171,26",sim,AN-0008;AN-0022
+AN-0032,Bandeja de suspensão dianteira,Suspensão,Anhembi,Dianteira esquerda,"467,19",sim,IB-0016
+PJ-0026,Mola helicoidal dianteira,Suspensão,Pirajuçara,Dianteira,"318,68",sim,JG-0006
+PJ-0027,Amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira direita,"397,28",sim,VG-0009
+TT-0022,Bieleta da barra estabilizadora,Suspensão,Tietê,Dianteira esquerda,"357,88",sim,PJ-0021;IB-0011
+VG-0019,Mola helicoidal dianteira,Suspensão,Vergueiro,Dianteira,"232,62",sim,JG-0004;AN-0004
+TT-0023,Pivô de suspensão,Suspensão,Tietê,Dianteira direita,"150,50",sim,AN-0026;VG-0015
+AN-0033,Amortecedor traseiro,Suspensão,Anhembi,Traseira,"296,46",sim,IB-0003;TT-0026
+TT-0024,Bandeja de suspensão dianteira,Suspensão,Tietê,Dianteira direita,"136,72",sim,TT-0014
+IB-0024,Bieleta da barra estabilizadora,Suspensão,Ibirapuera,Dianteira esquerda,"347,78",sim,IB-0011;IB-0017
+IB-0025,Pivô de suspensão,Suspensão,Ibirapuera,Dianteira esquerda,"319,84",sim,TT-0019;JG-0014
+VG-0020,Coxim do amortecedor dianteiro,Suspensão,Vergueiro,Dianteira,"130,07",sim,PJ-0029
+TT-0025,Amortecedor traseiro,Suspensão,Tietê,Traseira,"151,81",sim,AN-0001
+PJ-0028,Bandeja de suspensão dianteira,Suspensão,Pirajuçara,Dianteira esquerda,"151,32",sim,TT-0012;AN-0032
+VG-0021,Bandeja de suspensão dianteira,Suspensão,Vergueiro,Dianteira direita,"312,70",sim,PJ-0003;PJ-0005
+JG-0021,Mola helicoidal dianteira,Suspensão,Jaraguá,Dianteira,"474,55",sim,IB-0020;IB-0019
+TT-0026,Amortecedor traseiro,Suspensão,Tietê,Traseira,"201,52",sim,JG-0005;AN-0033
+PJ-0029,Coxim do amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira,"214,99",sim,PJ-0032
+AN-0034,Pivô de suspensão,Suspensão,Anhembi,Dianteira direita,"469,53",sim,TT-0018
+AN-0035,Amortecedor dianteiro,Suspensão,Anhembi,Dianteira esquerda,"267,46",sim,AN-0029;TT-0008
+PJ-0030,Bandeja de suspensão dianteira,Suspensão,Pirajuçara,Dianteira direita,"395,90",sim,IB-0022;VG-0010
+JG-0022,Amortecedor traseiro,Suspensão,Jaraguá,Traseira,"127,65",sim,IB-0009
+VG-0022,Bieleta da barra estabilizadora,Suspensão,Vergueiro,Dianteira direita,"140,85",sim,IB-0015;AN-0012
+PJ-0031,Amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira direita,"197,80",sim,PJ-0001
+PJ-0032,Coxim do amortecedor dianteiro,Suspensão,Pirajuçara,Dianteira,"176,05",sim,VG-0011
+AN-0036,Pivô de suspensão,Suspensão,Anhembi,Dianteira direita,"278,65",sim,TT-0018
+PJ-0033,Mola helicoidal dianteira,Suspensão,Pirajuçara,Dianteira,"243,68",sim,IB-0019
+AN-0037,Amortecedor traseiro,Suspensão,Anhembi,Traseira,"357,56",sim,IB-0012;PJ-0004
+JG-0023,Mola helicoidal dianteira,Suspensão,Jaraguá,Dianteira,"143,28",sim,JG-0021
+PJ-0034,Bieleta da barra estabilizadora,Suspensão,Pirajuçara,Dianteira direita,"248,12",sim,TT-0006
+VG-0023,Amortecedor dianteiro,Suspensão,Vergueiro,Dianteira esquerda,"222,84",não,IB-0007
+VG-0024,Coxim do amortecedor dianteiro,Suspensão,Vergueiro,Dianteira,"251,58",sim,PJ-0017
+IB-0026,Bandeja de suspensão dianteira,Suspensão,Ibirapuera,Dianteira direita,"327,01",sim,JG-0001;VG-0003
+JG-0024,Amortecedor dianteiro,Suspensão,Jaraguá,Dianteira esquerda,"162,83",sim,AN-0009
+IB-0027,Mola helicoidal dianteira,Suspensão,Ibirapuera,Dianteira,"212,92",não,JG-0006;IB-0029
+IB-0028,Amortecedor traseiro,Suspensão,Ibirapuera,Traseira,"304,87",sim,PJ-0020;PJ-0023
+PJ-0035,Pivô de suspensão,Suspensão,Pirajuçara,Dianteira esquerda,"401,45",sim,AN-0031
+TT-0027,Amortecedor traseiro,Suspensão,Tietê,Traseira,"325,31",sim,IB-0014;IB-0003
+TT-0028,Bieleta da barra estabilizadora,Suspensão,Tietê,Dianteira direita,"252,77",sim,PJ-0002;VG-0013
+AN-0038,Bandeja de suspensão dianteira,Suspensão,Anhembi,Dianteira esquerda,"122,24",sim,PJ-0028;VG-0014
+VG-0025,Pivô de suspensão,Suspensão,Vergueiro,Dianteira esquerda,"472,16",sim,AN-0002;PJ-0010
+IB-0029,Mola helicoidal dianteira,Suspensão,Ibirapuera,Dianteira,"267,77",sim,IB-0013;JG-0003
+AN-0039,Amortecedor dianteiro,Suspensão,Anhembi,Dianteira direita,"398,31",sim,PJ-0001
+IB-0030,Cilindro de roda traseiro,Freio,Ibirapuera,Traseira,"305,89",sim,TT-0053;TT-0045
+PJ-0036,Pastilha de freio traseira,Freio,Pirajuçara,Traseira,"211,58",sim,JG-0036
+IB-0031,Pastilha de freio dianteira,Freio,Ibirapuera,Dianteira,"163,38",sim,JG-0053;AN-0049
+TT-0029,Flexível de freio dianteiro,Freio,Tietê,Dianteira esquerda,"125,73",sim,AN-0057;JG-0040
+VG-0026,Cabo de freio de mão,Freio,Vergueiro,,"339,47",sim,JG-0043
+IB-0032,Disco de freio dianteiro ventilado,Freio,Ibirapuera,Dianteira,"199,34",sim,TT-0046;PJ-0042
+AN-0040,Disco de freio traseiro sólido,Freio,Anhembi,Traseira,"195,99",sim,PJ-0038
+TT-0030,Disco de freio traseiro sólido,Freio,Tietê,Traseira,"116,99",sim,VG-0036
+AN-0041,Cilindro de roda traseiro,Freio,Anhembi,Traseira,"216,51",sim,VG-0042
+PJ-0037,Cabo de freio de mão,Freio,Pirajuçara,,"105,79",sim,PJ-0062
+JG-0025,Pastilha de freio dianteira,Freio,Jaraguá,Dianteira,"70,27",sim,TT-0039;JG-0034
+TT-0031,Flexível de freio dianteiro,Freio,Tietê,Dianteira esquerda,"326,47",sim,IB-0047
+IB-0033,Pastilha de freio traseira,Freio,Ibirapuera,Traseira,"100,93",sim,TT-0055
+AN-0042,Disco de freio dianteiro ventilado,Freio,Anhembi,Dianteira,"300,44",sim,IB-0034;AN-0053
+JG-0026,Pastilha de freio traseira,Freio,Jaraguá,Traseira,"249,45",sim,TT-0034
+IB-0034,Disco de freio dianteiro ventilado,Freio,Ibirapuera,Dianteira,"95,45",sim,IB-0042
+PJ-0038,Disco de freio traseiro sólido,Freio,Pirajuçara,Traseira,"254,70",sim,TT-0037;TT-0044
+VG-0027,Cabo de freio de mão,Freio,Vergueiro,,"149,10",não,JG-0043
+PJ-0039,Flexível de freio dianteiro,Freio,Pirajuçara,Dianteira esquerda,"160,13",sim,JG-0040
+TT-0032,Pastilha de freio dianteira,Freio,Tietê,Dianteira,"143,47",sim,JG-0050
+TT-0033,Disco de freio traseiro sólido,Freio,Tietê,Traseira,"128,41",sim,AN-0059;PJ-0054
+PJ-0040,Pastilha de freio traseira,Freio,Pirajuçara,Traseira,"326,92",sim,JG-0039
+AN-0043,Cabo de freio de mão,Freio,Anhembi,,"115,59",sim,JG-0032;VG-0038
+AN-0044,Pastilha de freio dianteira,Freio,Anhembi,Dianteira,"313,69",sim,PJ-0052
+AN-0045,Cilindro de roda traseiro,Freio,Anhembi,Traseira,"278,61",sim,PJ-0058
+JG-0027,Pastilha de freio traseira,Freio,Jaraguá,Traseira,"234,54",sim,IB-0053
+AN-0046,Disco de freio traseiro sólido,Freio,Anhembi,Traseira,"218,18",sim,TT-0060;AN-0059
+IB-0035,Pastilha de freio dianteira,Freio,Ibirapuera,Dianteira,"144,35",sim,TT-0039
+VG-0028,Disco de freio dianteiro ventilado,Freio,Vergueiro,Dianteira,"120,15",sim,PJ-0055;JG-0051
+VG-0029,Flexível de freio dianteiro,Freio,Vergueiro,Dianteira direita,"107,67",sim,TT-0040;AN-0048
+AN-0047,Cabo de freio de mão,Freio,Anhembi,,"99,97",sim,VG-0043;IB-0038
+VG-0030,Pastilha de freio traseira,Freio,Vergueiro,Traseira,"182,75",sim,TT-0055
+JG-0028,Pastilha de freio dianteira,Freio,Jaraguá,Dianteira,"185,60",sim,JG-0045
+PJ-0041,Flexível de freio dianteiro,Freio,Pirajuçara,Dianteira esquerda,"156,47",sim,AN-0057
+JG-0029,Disco de freio traseiro sólido,Freio,Jaraguá,Traseira,"151,17",sim,JG-0041;TT-0037
+JG-0030,Cilindro de roda traseiro,Freio,Jaraguá,Traseira,"193,12",sim,AN-0060;AN-0045
+AN-0048,Flexível de freio dianteiro,Freio,Anhembi,Dianteira direita,"93,48",não,PJ-0060;AN-0063
+JG-0031,Disco de freio dianteiro ventilado,Freio,Jaraguá,Dianteira,"196,24",sim,AN-0042;JG-0052
+JG-0032,Cabo de freio de mão,Freio,Jaraguá,,"260,00",sim,JG-0048
+JG-0033,Cilindro de roda traseiro,Freio,Jaraguá,Traseira,"292,53",sim,IB-0051
+TT-0034,Pastilha de freio traseira,Freio,Tietê,Traseira,"132,23",sim,IB-0055;IB-0066
+AN-0049,Pastilha de freio dianteira,Freio,Anhembi,Dianteira,"105,26",sim,JG-0050
+TT-0035,Pastilha de freio traseira,Freio,Tietê,Traseira,"227,71",sim,IB-0060;TT-0042
+IB-0036,Cilindro de roda traseiro,Freio,Ibirapuera,Traseira,"61,54",sim,PJ-0044
+IB-0037,Disco de freio traseiro sólido,Freio,Ibirapuera,Traseira,"267,20",sim,TT-0060;AN-0059
+AN-0050,Flexível de freio dianteiro,Freio,Anhembi,Dianteira direita,"78,67",sim,AN-0063
+IB-0038,Cabo de freio de mão,Freio,Ibirapuera,,"268,12",sim,TT-0056;PJ-0051
+AN-0051,Flexível de freio dianteiro,Freio,Anhembi,Dianteira direita,"275,52",sim,AN-0063
+PJ-0042,Disco de freio dianteiro ventilado,Freio,Pirajuçara,Dianteira,"164,70",sim,JG-0055
+JG-0034,Pastilha de freio dianteira,Freio,Jaraguá,Dianteira,"151,69",não,AN-0044
+PJ-0043,Cabo de freio de mão,Freio,Pirajuçara,,"269,55",não,VG-0027;VG-0043
+AN-0052,Pastilha de freio traseira,Freio,Anhembi,Traseira,"184,65",sim,AN-0061
+PJ-0044,Cilindro de roda traseiro,Freio,Pirajuçara,Traseira,"165,07",não,AN-0070
+TT-0036,Disco de freio dianteiro ventilado,Freio,Tietê,Dianteira,"129,96",sim,AN-0064
+JG-0035,Cabo de freio de mão,Freio,Jaraguá,,"308,87",sim,JG-0043;IB-0058
+VG-0031,Disco de freio traseiro sólido,Freio,Vergueiro,Traseira,"278,06",sim,PJ-0038;AN-0067
+JG-0036,Pastilha de freio traseira,Freio,Jaraguá,Traseira,"182,37",sim,VG-0030
+PJ-0045,Flexível de freio dianteiro,Freio,Pirajuçara,Dianteira esquerda,"239,60",sim,TT-0047
+PJ-0046,Cilindro de roda traseiro,Freio,Pirajuçara,Traseira,"290,63",sim,IB-0036
+JG-0037,Pastilha de freio traseira,Freio,Jaraguá,Traseira,"148,03",sim,TT-0042;TT-0034
+JG-0038,Pastilha de freio dianteira,Freio,Jaraguá,Dianteira,"174,42",sim,IB-0035
+IB-0039,Flexível de freio dianteiro,Freio,Ibirapuera,Dianteira direita,"212,43",sim,AN-0050;AN-0063
+PJ-0047,Cabo de freio de mão,Freio,Pirajuçara,,"236,25",sim,JG-0043
+VG-0032,Disco de freio dianteiro ventilado,Freio,Vergueiro,Dianteira,"181,38",não,IB-0049
+TT-0037,Disco de freio traseiro sólido,Freio,Tietê,Traseira,"330,05",não,PJ-0054;VG-0036
+AN-0053,Disco de freio dianteiro ventilado,Freio,Anhembi,Dianteira,"166,79",sim,VG-0028;IB-0043
+JG-0039,Pastilha de freio traseira,Freio,Jaraguá,Traseira,"193,51",sim,JG-0027;TT-0048
+JG-0040,Flexível de freio dianteiro,Freio,Jaraguá,Dianteira esquerda,"130,39",sim,TT-0029;TT-0047
+PJ-0048,Pastilha de freio dianteira,Freio,Pirajuçara,Dianteira,"335,89",sim,AN-0049;TT-0054
+AN-0054,Cabo de freio de mão,Freio,Anhembi,,"62,76",sim,IB-0054
+AN-0055,Flexível de freio dianteiro,Freio,Anhembi,Dianteira esquerda,"251,14",sim,IB-0057;AN-0065
+JG-0041,Disco de freio traseiro sólido,Freio,Jaraguá,Traseira,"288,91",sim,PJ-0054
+PJ-0049,Pastilha de freio dianteira,Freio,Pirajuçara,Dianteira,"332,83",sim,AN-0056
+IB-0040,Cilindro de roda traseiro,Freio,Ibirapuera,Traseira,"334,33",sim,TT-0053
+JG-0042,Disco de freio dianteiro ventilado,Freio,Jaraguá,Dianteira,"148,54",sim,TT-0036;TT-0046
+VG-0033,Pastilha de freio traseira,Freio,Vergueiro,Traseira,"308,60",sim,PJ-0040
+TT-0038,Cabo de freio de mão,Freio,Tietê,,"279,49",sim,IB-0052;AN-0054
+AN-0056,Pastilha de freio dianteira,Freio,Anhembi,Dianteira,"207,15",sim,PJ-0048
+IB-0041,Cilindro de roda traseiro,Freio,Ibirapuera,Traseira,"80,41",sim,AN-0045
+IB-0042,Disco de freio dianteiro ventilado,Freio,Ibirapuera,Dianteira,"291,20",não,VG-0028;IB-0032
+AN-0057,Flexível de freio dianteiro,Freio,Anhembi,Dianteira esquerda,"197,06",sim,IB-0047;PJ-0045
+TT-0039,Pastilha de freio dianteira,Freio,Tietê,Dianteira,"100,32",sim,JG-0050;TT-0051
+JG-0043,Cabo de freio de mão,Freio,Jaraguá,,"73,67",sim,PJ-0051
+TT-0040,Flexível de freio dianteiro,Freio,Tietê,Dianteira direita,"316,34",sim,AN-0051;VG-0029
+PJ-0050,Pastilha de freio traseira,Freio,Pirajuçara,Traseira,"140,62",sim,IB-0060
+PJ-0051,Cabo de freio de mão,Freio,Pirajuçara,,"286,04",sim,PJ-0037;TT-0038
+IB-0043,Disco de freio dianteiro ventilado,Freio,Ibirapuera,Dianteira,"275,14",sim,JG-0052;AN-0062
+IB-0044,Cilindro de roda traseiro,Freio,Ibirapuera,Traseira,"299,30",sim,IB-0030
+TT-0041,Disco de freio traseiro sólido,Freio,Tietê,Traseira,"215,88",sim,TT-0033;VG-0040
+TT-0042,Pastilha de freio traseira,Freio,Tietê,Traseira,"235,47",sim,TT-0058
+TT-0043,Pastilha de freio dianteira,Freio,Tietê,Dianteira,"176,15",não,TT-0032;TT-0054
+AN-0058,Cilindro de roda traseiro,Freio,Anhembi,Traseira,"216,92",sim,TT-0049
+JG-0044,Flexível de freio dianteiro,Freio,Jaraguá,Dianteira direita,"258,12",não,AN-0050;TT-0050
+PJ-0052,Pastilha de freio dianteira,Freio,Pirajuçara,Dianteira,"194,09",sim,JG-0050;PJ-0048
+TT-0044,Disco de freio traseiro sólido,Freio,Tietê,Traseira,"218,70",sim,PJ-0038;TT-0030
+PJ-0053,Flexível de freio dianteiro,Freio,Pirajuçara,Dianteira direita,"175,82",sim,AN-0050;JG-0044
+AN-0059,Disco de freio traseiro sólido,Freio,Anhembi,Traseira,"75,32",sim,PJ-0054;IB-0059
+VG-0034,Cilindro de roda traseiro,Freio,Vergueiro,Traseira,"81,76",sim,PJ-0058
+IB-0045,Pastilha de freio dianteira,Freio,Ibirapuera,Dianteira,"186,66",sim,IB-0035
+VG-0035,Cabo de freio de mão,Freio,Vergueiro,,"271,45",sim,IB-0038
+IB-0046,Pastilha de freio traseira,Freio,Ibirapuera,Traseira,"179,32",sim,VG-0030
+TT-0045,Cilindro de roda traseiro,Freio,Tietê,Traseira,"126,25",sim,AN-0045
+TT-0046,Disco de freio dianteiro ventilado,Freio,Tietê,Dianteira,"181,43",sim,IB-0043;JG-0031
+JG-0045,Pastilha de freio dianteira,Freio,Jaraguá,Dianteira,"219,55",sim,TT-0043
+IB-0047,Flexível de freio dianteiro,Freio,Ibirapuera,Dianteira esquerda,"170,53",sim,AN-0057;JG-0040
+VG-0036,Disco de freio traseiro sólido,Freio,Vergueiro,Traseira,"274,03",sim,IB-0037;TT-0030
+TT-0047,Flexível de freio dianteiro,Freio,Tietê,Dianteira esquerda,"282,88",sim,JG-0040;IB-0057
+TT-0048,Pastilha de freio traseira,Freio,Tietê,Traseira,"246,42",sim,IB-0050;PJ-0050
+JG-0046,Cabo de freio de mão,Freio,Jaraguá,,"315,25",sim,VG-0041
+IB-0048,Disco de freio traseiro sólido,Freio,Ibirapuera,Traseira,"156,33",sim,VG-0031;TT-0060
+TT-0049,Cilindro de roda traseiro,Freio,Tietê,Traseira,"295,99",sim,AN-0060
+JG-0047,Pastilha de freio dianteira,Freio,Jaraguá,Dianteira,"200,31",sim,TT-0051;JG-0045
+IB-0049,Disco de freio dianteiro ventilado,Freio,Ibirapuera,Dianteira,"107,59",não,PJ-0055
+TT-0050,Flexível de freio dianteiro,Freio,Tietê,Dianteira direita,"72,88",sim,VG-0029;JG-0044
+IB-0050,Pastilha de freio traseira,Freio,Ibirapuera,Traseira,"110,58",sim,AN-0052
+IB-0051,Cilindro de roda traseiro,Freio,Ibirapuera,Traseira,"208,53",sim,JG-0030;IB-0040
+IB-0052,Cabo de freio de mão,Freio,Ibirapuera,,"226,33",sim,VG-0035;AN-0047
+IB-0053,Pastilha de freio traseira,Freio,Ibirapuera,Traseira,"139,40",sim,JG-0036;VG-0030
+IB-0054,Cabo de freio de mão,Freio,Ibirapuera,,"187,00",sim,IB-0058;PJ-0051
+AN-0060,Cilindro de roda traseiro,Freio,Anhembi,Traseira,"72,29",sim,AN-0058;PJ-0058
+PJ-0054,Disco de freio traseiro sólido,Freio,Pirajuçara,Traseira,"128,99",sim,IB-0059;AN-0046
+TT-0051,Pastilha de freio dianteira,Freio,Tietê,Dianteira,"282,66",sim,AN-0044;TT-0052
+PJ-0055,Disco de freio dianteiro ventilado,Freio,Pirajuçara,Dianteira,"62,48",sim,TT-0046
+PJ-0056,Flexível de freio dianteiro,Freio,Pirajuçara,Dianteira esquerda,"111,08",sim,AN-0057;IB-0047
+VG-0037,Pastilha de freio dianteira,Freio,Vergueiro,Dianteira,"298,59",sim,JG-0053;IB-0031
+VG-0038,Cabo de freio de mão,Freio,Vergueiro,,"114,10",sim,VG-0027
+VG-0039,Flexível de freio dianteiro,Freio,Vergueiro,Dianteira direita,"147,67",sim,AN-0063;VG-0029
+IB-0055,Pastilha de freio traseira,Freio,Ibirapuera,Traseira,"137,38",sim,PJ-0061;TT-0035
+TT-0052,Pastilha de freio dianteira,Freio,Tietê,Dianteira,"238,70",sim,VG-0037
+JG-0048,Cabo de freio de mão,Freio,Jaraguá,,"95,04",não,VG-0038
+TT-0053,Cilindro de roda traseiro,Freio,Tietê,Traseira,"225,61",sim,IB-0041;AN-0045
+AN-0061,Pastilha de freio traseira,Freio,Anhembi,Traseira,"208,29",sim,TT-0058;TT-0048
+JG-0049,Disco de freio traseiro sólido,Freio,Jaraguá,Traseira,"320,01",sim,PJ-0038
+AN-0062,Disco de freio dianteiro ventilado,Freio,Anhembi,Dianteira,"279,42",sim,TT-0046;JG-0051
+AN-0063,Flexível de freio dianteiro,Freio,Anhembi,Dianteira direita,"314,24",não,PJ-0060;PJ-0053
+JG-0050,Pastilha de freio dianteira,Freio,Jaraguá,Dianteira,"92,88",sim,JG-0054
+IB-0056,Flexível de freio dianteiro,Freio,Ibirapuera,Dianteira esquerda,"89,71",sim,IB-0057
+JG-0051,Disco de freio dianteiro ventilado,Freio,Jaraguá,Dianteira,"60,68",sim,JG-0042
+VG-0040,Disco de freio traseiro sólido,Freio,Vergueiro,Traseira,"148,70",sim,AN-0059
+PJ-0057,Cilindro de roda traseiro,Freio,Pirajuçara,Traseira,"203,50",sim,TT-0045;AN-0069
+VG-0041,Cabo de freio de mão,Freio,Vergueiro,,"134,47",sim,JG-0046
+TT-0054,Pastilha de freio dianteira,Freio,Tietê,Dianteira,"101,06",não,JG-0053;VG-0037
+TT-0055,Pastilha de freio traseira,Freio,Tietê,Traseira,"117,19",sim,TT-0058;PJ-0040
+IB-0057,Flexível de freio dianteiro,Freio,Ibirapuera,Dianteira esquerda,"123,38",sim,JG-0056
+JG-0052,Disco de freio dianteiro ventilado,Freio,Jaraguá,Dianteira,"248,25",sim,JG-0031
+JG-0053,Pastilha de freio dianteira,Freio,Jaraguá,Dianteira,"257,13",sim,TT-0052
+PJ-0058,Cilindro de roda traseiro,Freio,Pirajuçara,Traseira,"197,96",não,VG-0042
+AN-0064,Disco de freio dianteiro ventilado,Freio,Anhembi,Dianteira,"164,61",sim,JG-0051
+TT-0056,Cabo de freio de mão,Freio,Tietê,,"327,86",não,PJ-0047;JG-0046
+PJ-0059,Disco de freio traseiro sólido,Freio,Pirajuçara,Traseira,"63,84",sim,JG-0029
+IB-0058,Cabo de freio de mão,Freio,Ibirapuera,,"209,35",sim,PJ-0047;JG-0048
+TT-0057,Disco de freio dianteiro ventilado,Freio,Tietê,Dianteira,"329,83",sim,AN-0042;IB-0034
+JG-0054,Pastilha de freio dianteira,Freio,Jaraguá,Dianteira,"158,27",sim,VG-0045;TT-0039
+VG-0042,Cilindro de roda traseiro,Freio,Vergueiro,Traseira,"148,66",sim,AN-0058
+IB-0059,Disco de freio traseiro sólido,Freio,Ibirapuera,Traseira,"213,20",sim,VG-0031
+AN-0065,Flexível de freio dianteiro,Freio,Anhembi,Dianteira esquerda,"320,80",sim,PJ-0041
+IB-0060,Pastilha de freio traseira,Freio,Ibirapuera,Traseira,"243,49",sim,VG-0044;AN-0052
+JG-0055,Disco de freio dianteiro ventilado,Freio,Jaraguá,Dianteira,"159,20",sim,PJ-0055
+AN-0066,Pastilha de freio traseira,Freio,Anhembi,Traseira,"256,30",sim,JG-0039
+JG-0056,Flexível de freio dianteiro,Freio,Jaraguá,Dianteira esquerda,"227,35",sim,PJ-0041
+AN-0067,Disco de freio traseiro sólido,Freio,Anhembi,Traseira,"336,35",sim,TT-0033
+TT-0058,Pastilha de freio traseira,Freio,Tietê,Traseira,"220,74",não,JG-0027
+AN-0068,Disco de freio traseiro sólido,Freio,Anhembi,Traseira,"121,83",sim,IB-0048;TT-0030
+AN-0069,Cilindro de roda traseiro,Freio,Anhembi,Traseira,"279,86",sim,AN-0041
+VG-0043,Cabo de freio de mão,Freio,Vergueiro,,"313,50",sim,PJ-0043
+PJ-0060,Flexível de freio dianteiro,Freio,Pirajuçara,Dianteira direita,"212,63",não,PJ-0053;AN-0048
+TT-0059,Pastilha de freio dianteira,Freio,Tietê,Dianteira,"255,18",sim,JG-0025;TT-0052
+PJ-0061,Pastilha de freio traseira,Freio,Pirajuçara,Traseira,"75,44",não,IB-0050;JG-0039
+IB-0061,Cilindro de roda traseiro,Freio,Ibirapuera,Traseira,"210,28",sim,JG-0033;AN-0060
+JG-0057,Disco de freio dianteiro ventilado,Freio,Jaraguá,Dianteira,"225,30",sim,JG-0031
+TT-0060,Disco de freio traseiro sólido,Freio,Tietê,Traseira,"328,46",sim,IB-0059;TT-0044
+TT-0061,Cabo de freio de mão,Freio,Tietê,,"142,30",sim,IB-0052
+IB-0062,Cabo de freio de mão,Freio,Ibirapuera,,"109,09",sim,VG-0038;IB-0058
+IB-0063,Disco de freio dianteiro ventilado,Freio,Ibirapuera,Dianteira,"147,77",sim,AN-0042
+IB-0064,Disco de freio traseiro sólido,Freio,Ibirapuera,Traseira,"73,92",sim,IB-0059;PJ-0054
+VG-0044,Pastilha de freio traseira,Freio,Vergueiro,Traseira,"275,12",sim,PJ-0040;JG-0036
+AN-0070,Cilindro de roda traseiro,Freio,Anhembi,Traseira,"187,63",sim,PJ-0046;AN-0060
+VG-0045,Pastilha de freio dianteira,Freio,Vergueiro,Dianteira,"245,75",sim,VG-0037;JG-0028
+IB-0065,Cilindro de roda traseiro,Freio,Ibirapuera,Traseira,"230,41",sim,IB-0040;PJ-0046
+PJ-0062,Cabo de freio de mão,Freio,Pirajuçara,,"290,53",sim,VG-0035
+IB-0066,Pastilha de freio traseira,Freio,Ibirapuera,Traseira,"251,62",sim,IB-0033;PJ-0061
+VG-0046,Disco de freio dianteiro ventilado,Freio,Vergueiro,Dianteira,"133,75",sim,JG-0031
+TT-0062,Kit de embreagem completo,Embreagem,Tietê,,"720,12",sim,VG-0054
+AN-0071,Disco de embreagem,Embreagem,Anhembi,,"886,14",sim,IB-0080
+AN-0072,Rolamento de embreagem,Embreagem,Anhembi,,"869,93",sim,PJ-0080
+AN-0073,Cabo de embreagem,Embreagem,Anhembi,,"429,26",sim,IB-0072;TT-0075
+TT-0063,Platô de embreagem,Embreagem,Tietê,,"636,91",sim,TT-0067;VG-0067
+AN-0074,Cabo de embreagem,Embreagem,Anhembi,,"592,55",não,AN-0080
+IB-0067,Platô de embreagem,Embreagem,Ibirapuera,,"767,61",sim,PJ-0085
+IB-0068,Kit de embreagem completo,Embreagem,Ibirapuera,,"418,53",sim,JG-0061;TT-0072
+IB-0069,Rolamento de embreagem,Embreagem,Ibirapuera,,"612,53",não,VG-0062;PJ-0080
+IB-0070,Kit de embreagem completo,Embreagem,Ibirapuera,,"541,97",sim,AN-0083
+AN-0075,Disco de embreagem,Embreagem,Anhembi,,"318,76",sim,JG-0058
+TT-0064,Rolamento de embreagem,Embreagem,Tietê,,"392,75",não,AN-0072;PJ-0084
+VG-0047,Cabo de embreagem,Embreagem,Vergueiro,,"398,85",sim,IB-0077
+TT-0065,Disco de embreagem,Embreagem,Tietê,,"458,22",sim,AN-0091
+PJ-0063,Cabo de embreagem,Embreagem,Pirajuçara,,"346,44",sim,AN-0084
+AN-0076,Kit de embreagem completo,Embreagem,Anhembi,,"366,46",sim,JG-0069
+IB-0071,Platô de embreagem,Embreagem,Ibirapuera,,"696,62",sim,VG-0067
+PJ-0064,Rolamento de embreagem,Embreagem,Pirajuçara,,"524,38",sim,JG-0068;IB-0084
+VG-0048,Rolamento de embreagem,Embreagem,Vergueiro,,"709,79",sim,AN-0081;TT-0079
+AN-0077,Kit de embreagem completo,Embreagem,Anhembi,,"624,86",não,AN-0076
+AN-0078,Cabo de embreagem,Embreagem,Anhembi,,"709,77",sim,VG-0072
+JG-0058,Disco de embreagem,Embreagem,Jaraguá,,"503,43",sim,IB-0090
+PJ-0065,Platô de embreagem,Embreagem,Pirajuçara,,"613,33",sim,AN-0093;VG-0073
+TT-0066,Platô de embreagem,Embreagem,Tietê,,"698,77",sim,TT-0067
+VG-0049,Kit de embreagem completo,Embreagem,Vergueiro,,"759,93",sim,PJ-0070;TT-0072
+AN-0079,Disco de embreagem,Embreagem,Anhembi,,"320,71",não,IB-0086;IB-0075
+JG-0059,Rolamento de embreagem,Embreagem,Jaraguá,,"501,15",sim,IB-0084;PJ-0067
+JG-0060,Cabo de embreagem,Embreagem,Jaraguá,,"468,07",sim,VG-0061;VG-0055
+PJ-0066,Disco de embreagem,Embreagem,Pirajuçara,,"692,39",sim,AN-0089;PJ-0076
+JG-0061,Kit de embreagem completo,Embreagem,Jaraguá,,"292,31",sim,AN-0086
+IB-0072,Cabo de embreagem,Embreagem,Ibirapuera,,"323,42",sim,IB-0082;IB-0089
+PJ-0067,Rolamento de embreagem,Embreagem,Pirajuçara,,"312,12",sim,JG-0059;IB-0084
+VG-0050,Platô de embreagem,Embreagem,Vergueiro,,"447,70",sim,JG-0077
+AN-0080,Cabo de embreagem,Embreagem,Anhembi,,"880,20",sim,IB-0077;VG-0061
+IB-0073,Kit de embreagem completo,Embreagem,Ibirapuera,,"583,70",não,IB-0099;JG-0061
+AN-0081,Rolamento de embreagem,Embreagem,Anhembi,,"696,19",sim,JG-0059
+VG-0051,Disco de embreagem,Embreagem,Vergueiro,,"324,02",sim,AN-0071
+AN-0082,Cabo de embreagem,Embreagem,Anhembi,,"360,33",sim,AN-0074;TT-0075
+TT-0067,Platô de embreagem,Embreagem,Tietê,,"270,82",sim,AN-0093;TT-0073
+PJ-0068,Kit de embreagem completo,Embreagem,Pirajuçara,,"455,33",não,TT-0062
+TT-0068,Disco de embreagem,Embreagem,Tietê,,"573,65",sim,JG-0072;PJ-0083
+VG-0052,Rolamento de embreagem,Embreagem,Vergueiro,,"227,65",sim,TT-0064;TT-0079
+JG-0062,Disco de embreagem,Embreagem,Jaraguá,,"672,10",sim,VG-0074
+AN-0083,Kit de embreagem completo,Embreagem,Anhembi,,"258,21",sim,IB-0095
+IB-0074,Platô de embreagem,Embreagem,Ibirapuera,,"546,47",não,VG-0073;JG-0066
+TT-0069,Rolamento de embreagem,Embreagem,Tietê,,"743,69",sim,PJ-0080
+VG-0053,Cabo de embreagem,Embreagem,Vergueiro,,"472,69",sim,IB-0088
+JG-0063,Platô de embreagem,Embreagem,Jaraguá,,"233,97",sim,TT-0067
+IB-0075,Disco de embreagem,Embreagem,Ibirapuera,,"881,97",sim,PJ-0066
+AN-0084,Cabo de embreagem,Embreagem,Anhembi,,"751,63",sim,VG-0055
+IB-0076,Rolamento de embreagem,Embreagem,Ibirapuera,,"472,53",sim,IB-0096;TT-0076
+JG-0064,Kit de embreagem completo,Embreagem,Jaraguá,,"760,28",sim,AN-0076
+PJ-0069,Platô de embreagem,Embreagem,Pirajuçara,,"252,19",sim,TT-0073;VG-0050
+JG-0065,Rolamento de embreagem,Embreagem,Jaraguá,,"548,39",sim,IB-0069;PJ-0080
+IB-0077,Cabo de embreagem,Embreagem,Ibirapuera,,"453,39",não,IB-0085
+VG-0054,Kit de embreagem completo,Embreagem,Vergueiro,,"727,29",sim,IB-0081
+TT-0070,Disco de embreagem,Embreagem,Tietê,,"611,66",sim,JG-0072
+IB-0078,Platô de embreagem,Embreagem,Ibirapuera,,"680,13",não,VG-0063
+AN-0085,Rolamento de embreagem,Embreagem,Anhembi,,"319,10",sim,VG-0060;AN-0072
+AN-0086,Kit de embreagem completo,Embreagem,Anhembi,,"397,73",sim,VG-0054;IB-0099
+IB-0079,Cabo de embreagem,Embreagem,Ibirapuera,,"409,34",não,TT-0075;VG-0053
+IB-0080,Disco de embreagem,Embreagem,Ibirapuera,,"667,13",não,AN-0079;TT-0070
+JG-0066,Platô de embreagem,Embreagem,Jaraguá,,"692,93",sim,VG-0067
+VG-0055,Cabo de embreagem,Embreagem,Vergueiro,,"760,68",sim,IB-0089;IB-0091
+VG-0056,Disco de embreagem,Embreagem,Vergueiro,,"418,76",sim,AN-0079
+VG-0057,Rolamento de embreagem,Embreagem,Vergueiro,,"761,56",sim,VG-0064
+PJ-0070,Kit de embreagem completo,Embreagem,Pirajuçara,,"359,06",sim,IB-0068
+JG-0067,Platô de embreagem,Embreagem,Jaraguá,,"856,44",não,JG-0070
+VG-0058,Kit de embreagem completo,Embreagem,Vergueiro,,"821,63",não,IB-0099
+VG-0059,Cabo de embreagem,Embreagem,Vergueiro,,"614,93",não,VG-0071;VG-0065
+PJ-0071,Rolamento de embreagem,Embreagem,Pirajuçara,,"611,31",não,AN-0095
+VG-0060,Rolamento de embreagem,Embreagem,Vergueiro,,"420,63",sim,PJ-0080;IB-0084
+AN-0087,Disco de embreagem,Embreagem,Anhembi,,"287,35",sim,AN-0075
+IB-0081,Kit de embreagem completo,Embreagem,Ibirapuera,,"729,74",sim,TT-0081;TT-0072
+IB-0082,Cabo de embreagem,Embreagem,Ibirapuera,,"263,66",sim,VG-0053;AN-0094
+IB-0083,Platô de embreagem,Embreagem,Ibirapuera,,"764,98",sim,VG-0050
+AN-0088,Disco de embreagem,Embreagem,Anhembi,,"308,80",sim,AN-0075;VG-0074
+PJ-0072,Cabo de embreagem,Embreagem,Pirajuçara,,"531,92",sim,AN-0082
+JG-0068,Rolamento de embreagem,Embreagem,Jaraguá,,"736,38",sim,TT-0074;AN-0081
+PJ-0073,Platô de embreagem,Embreagem,Pirajuçara,,"724,62",sim,IB-0074
+JG-0069,Kit de embreagem completo,Embreagem,Jaraguá,,"813,49",sim,AN-0083;VG-0058
+IB-0084,Rolamento de embreagem,Embreagem,Ibirapuera,,"779,34",sim,PJ-0064;VG-0075
+JG-0070,Platô de embreagem,Embreagem,Jaraguá,,"290,84",sim,JG-0074
+IB-0085,Cabo de embreagem,Embreagem,Ibirapuera,,"303,94",sim,VG-0047
+AN-0089,Disco de embreagem,Embreagem,Anhembi,,"465,41",sim,AN-0071
+PJ-0074,Kit de embreagem completo,Embreagem,Pirajuçara,,"652,62",sim,AN-0096;AN-0077
+IB-0086,Disco de embreagem,Embreagem,Ibirapuera,,"334,52",sim,AN-0075;JG-0058
+TT-0071,Rolamento de embreagem,Embreagem,Tietê,,"844,65",sim,VG-0062
+VG-0061,Cabo de embreagem,Embreagem,Vergueiro,,"422,96",sim,JG-0071;VG-0059
+AN-0090,Platô de embreagem,Embreagem,Anhembi,,"573,71",sim,JG-0066;PJ-0065
+IB-0087,Disco de embreagem,Embreagem,Ibirapuera,,"559,15",sim,JG-0072;AN-0075
+IB-0088,Cabo de embreagem,Embreagem,Ibirapuera,,"345,07",sim,IB-0091;JG-0071
+TT-0072,Kit de embreagem completo,Embreagem,Tietê,,"863,04",sim,PJ-0068
+VG-0062,Rolamento de embreagem,Embreagem,Vergueiro,,"471,13",sim,PJ-0080;VG-0060
+PJ-0075,Rolamento de embreagem,Embreagem,Pirajuçara,,"375,96",sim,VG-0052;PJ-0064
+VG-0063,Platô de embreagem,Embreagem,Vergueiro,,"312,64",sim,AN-0090;JG-0063
+PJ-0076,Disco de embreagem,Embreagem,Pirajuçara,,"289,40",sim,PJ-0081;IB-0097
+IB-0089,Cabo de embreagem,Embreagem,Ibirapuera,,"303,78",sim,VG-0065;JG-0071
+TT-0073,Platô de embreagem,Embreagem,Tietê,,"726,88",sim,JG-0070
+AN-0091,Disco de embreagem,Embreagem,Anhembi,,"286,32",sim,AN-0071;AN-0079
+JG-0071,Cabo de embreagem,Embreagem,Jaraguá,,"280,13",sim,IB-0089
+VG-0064,Rolamento de embreagem,Embreagem,Vergueiro,,"720,01",sim,PJ-0071
+PJ-0077,Platô de embreagem,Embreagem,Pirajuçara,,"582,52",sim,AN-0090
+JG-0072,Disco de embreagem,Embreagem,Jaraguá,,"263,72",sim,TT-0068;JG-0062
+VG-0065,Cabo de embreagem,Embreagem,Vergueiro,,"815,23",sim,IB-0089
+VG-0066,Kit de embreagem completo,Embreagem,Vergueiro,,"612,69",sim,AN-0077;PJ-0082
+IB-0090,Disco de embreagem,Embreagem,Ibirapuera,,"842,59",sim,IB-0092;AN-0075
+VG-0067,Platô de embreagem,Embreagem,Vergueiro,,"378,47",sim,JG-0074;PJ-0065
+IB-0091,Cabo de embreagem,Embreagem,Ibirapuera,,"613,94",sim,VG-0053
+PJ-0078,Kit de embreagem completo,Embreagem,Pirajuçara,,"748,50",sim,IB-0081
+PJ-0079,Rolamento de embreagem,Embreagem,Pirajuçara,,"825,45",sim,VG-0064;TT-0064
+AN-0092,Rolamento de embreagem,Embreagem,Anhembi,,"737,82",não,PJ-0084
+IB-0092,Disco de embreagem,Embreagem,Ibirapuera,,"273,78",sim,IB-0080;PJ-0066
+AN-0093,Platô de embreagem,Embreagem,Anhembi,,"245,06",sim,IB-0074;VG-0073
+VG-0068,Kit de embreagem completo,Embreagem,Vergueiro,,"385,05",sim,AN-0077;JG-0061
+JG-0073,Kit de embreagem completo,Embreagem,Jaraguá,,"334,74",sim,IB-0081
+JG-0074,Platô de embreagem,Embreagem,Jaraguá,,"415,61",sim,TT-0066;VG-0073
+AN-0094,Cabo de embreagem,Embreagem,Anhembi,,"259,77",sim,IB-0077;VG-0055
+PJ-0080,Rolamento de embreagem,Embreagem,Pirajuçara,,"698,12",sim,VG-0060
+IB-0093,Disco de embreagem,Embreagem,Ibirapuera,,"429,64",sim,AN-0075;IB-0098
+IB-0094,Platô de embreagem,Embreagem,Ibirapuera,,"500,25",não,JG-0063
+VG-0069,Cabo de embreagem,Embreagem,Vergueiro,,"722,68",sim,AN-0074;IB-0082
+AN-0095,Rolamento de embreagem,Embreagem,Anhembi,,"363,69",sim,VG-0052;PJ-0067
+VG-0070,Kit de embreagem completo,Embreagem,Vergueiro,,"246,78",sim,PJ-0068;AN-0086
+PJ-0081,Disco de embreagem,Embreagem,Pirajuçara,,"647,24",sim,AN-0075
+VG-0071,Cabo de embreagem,Embreagem,Vergueiro,,"679,73",sim,VG-0047;PJ-0072
+TT-0074,Rolamento de embreagem,Embreagem,Tietê,,"598,46",sim,TT-0064;PJ-0084
+IB-0095,Kit de embreagem completo,Embreagem,Ibirapuera,,"267,99",sim,VG-0054
+JG-0075,Platô de embreagem,Embreagem,Jaraguá,,"869,38",sim,PJ-0077;VG-0050
+IB-0096,Rolamento de embreagem,Embreagem,Ibirapuera,,"573,78",sim,TT-0076
+IB-0097,Disco de embreagem,Embreagem,Ibirapuera,,"558,42",sim,TT-0065;JG-0062
+AN-0096,Kit de embreagem completo,Embreagem,Anhembi,,"671,18",sim,PJ-0078
+JG-0076,Platô de embreagem,Embreagem,Jaraguá,,"444,54",sim,IB-0094
+TT-0075,Cabo de embreagem,Embreagem,Tietê,,"451,76",sim,PJ-0072;VG-0071
+TT-0076,Rolamento de embreagem,Embreagem,Tietê,,"381,25",sim,PJ-0079;AN-0092
+VG-0072,Cabo de embreagem,Embreagem,Vergueiro,,"393,98",sim,VG-0071;IB-0089
+VG-0073,Platô de embreagem,Embreagem,Vergueiro,,"462,58",sim,TT-0078;TT-0073
+PJ-0082,Kit de embreagem completo,Embreagem,Pirajuçara,,"831,09",sim,VG-0049;IB-0070
+VG-0074,Disco de embreagem,Embreagem,Vergueiro,,"368,79",sim,AN-0088
+VG-0075,Rolamento de embreagem,Embreagem,Vergueiro,,"262,82",sim,PJ-0079
+TT-0077,Cabo de embreagem,Embreagem,Tietê,,"601,31",sim,AN-0082;PJ-0072
+PJ-0083,Disco de embreagem,Embreagem,Pirajuçara,,"591,11",sim,VG-0051;PJ-0066
+TT-0078,Platô de embreagem,Embreagem,Tietê,,"735,73",sim,TT-0063
+IB-0098,Disco de embreagem,Embreagem,Ibirapuera,,"633,07",sim,PJ-0081
+PJ-0084,Rolamento de embreagem,Embreagem,Pirajuçara,,"554,12",sim,PJ-0075
+JG-0077,Platô de embreagem,Embreagem,Jaraguá,,"253,13",sim,IB-0078;JG-0066
+IB-0099,Kit de embreagem completo,Embreagem,Ibirapuera,,"297,60",sim,IB-0070;TT-0072
+TT-0079,Rolamento de embreagem,Embreagem,Tietê,,"557,47",não,IB-0076;PJ-0067
+TT-0080,Cabo de embreagem,Embreagem,Tietê,,"867,58",sim,JG-0060;VG-0065
+PJ-0085,Platô de embreagem,Embreagem,Pirajuçara,,"824,60",sim,JG-0075
+TT-0081,Kit de embreagem completo,Embreagem,Tietê,,"353,65",sim,PJ-0082
+IB-0100,Retentor de câmbio,Transmissão,Ibirapuera,,"273,72",sim,JG-0090;PJ-0087
+AN-0097,Sincronizador de 2ª e 3ª marcha,Transmissão,Anhembi,,"247,28",sim,TT-0098;JG-0079
+TT-0082,Coifa da homocinética,Transmissão,Tietê,Dianteira direita,"574,52",sim,JG-0082
+PJ-0086,Homocinética dianteira,Transmissão,Pirajuçara,Dianteira direita,"380,08",sim,VG-0092;AN-0099
+JG-0078,Coifa da homocinética,Transmissão,Jaraguá,Dianteira direita,"400,04",sim,AN-0116;TT-0083
+AN-0098,Retentor de câmbio,Transmissão,Anhembi,,"394,03",não,IB-0121
+JG-0079,Sincronizador de 2ª e 3ª marcha,Transmissão,Jaraguá,,"215,21",sim,IB-0109
+AN-0099,Homocinética dianteira,Transmissão,Anhembi,Dianteira direita,"376,70",sim,AN-0119
+PJ-0087,Retentor de câmbio,Transmissão,Pirajuçara,,"449,42",sim,JG-0090;IB-0114
+TT-0083,Coifa da homocinética,Transmissão,Tietê,Dianteira direita,"476,26",sim,IB-0112;JG-0095
+AN-0100,Sincronizador de 2ª e 3ª marcha,Transmissão,Anhembi,,"536,77",sim,AN-0108
+IB-0101,Coxim do câmbio,Transmissão,Ibirapuera,,"256,40",sim,PJ-0088
+VG-0076,Homocinética dianteira,Transmissão,Vergueiro,Dianteira direita,"156,62",sim,AN-0107
+AN-0101,Coifa da homocinética,Transmissão,Anhembi,Dianteira direita,"374,74",sim,IB-0112;AN-0123
+JG-0080,Retentor de câmbio,Transmissão,Jaraguá,,"569,46",sim,TT-0096;PJ-0090
+AN-0102,Coxim do câmbio,Transmissão,Anhembi,,"388,89",sim,TT-0097;VG-0100
+TT-0084,Sincronizador de 2ª e 3ª marcha,Transmissão,Tietê,,"351,57",sim,TT-0098;JG-0093
+JG-0081,Coxim do câmbio,Transmissão,Jaraguá,,"181,37",sim,VG-0094
+IB-0102,Homocinética dianteira,Transmissão,Ibirapuera,Dianteira esquerda,"367,48",sim,AN-0112
+IB-0103,Sincronizador de 2ª e 3ª marcha,Transmissão,Ibirapuera,,"234,73",sim,VG-0091;JG-0098
+JG-0082,Coifa da homocinética,Transmissão,Jaraguá,Dianteira direita,"403,18",sim,TT-0101;TT-0094
+VG-0077,Retentor de câmbio,Transmissão,Vergueiro,,"499,57",sim,JG-0087;PJ-0095
+JG-0083,Homocinética dianteira,Transmissão,Jaraguá,Dianteira direita,"529,93",não,VG-0088;AN-0104
+AN-0103,Coifa da homocinética,Transmissão,Anhembi,Dianteira esquerda,"495,62",não,IB-0107;PJ-0097
+VG-0078,Sincronizador de 2ª e 3ª marcha,Transmissão,Vergueiro,,"322,75",sim,JG-0089
+PJ-0088,Coxim do câmbio,Transmissão,Pirajuçara,,"338,87",sim,IB-0116
+VG-0079,Sincronizador de 2ª e 3ª marcha,Transmissão,Vergueiro,,"216,31",não,JG-0098
+AN-0104,Homocinética dianteira,Transmissão,Anhembi,Dianteira direita,"363,47",sim,TT-0095;PJ-0103
+TT-0085,Retentor de câmbio,Transmissão,Tietê,,"543,13",sim,PJ-0094;AN-0124
+IB-0104,Coifa da homocinética,Transmissão,Ibirapuera,Dianteira esquerda,"465,62",sim,TT-0102;IB-0107
+PJ-0089,Coxim do câmbio,Transmissão,Pirajuçara,,"142,87",não,AN-0109
+IB-0105,Sincronizador de 2ª e 3ª marcha,Transmissão,Ibirapuera,,"468,72",sim,VG-0099;VG-0091
+AN-0105,Retentor de câmbio,Transmissão,Anhembi,,"348,98",sim,VG-0101;IB-0122
+TT-0086,Homocinética dianteira,Transmissão,Tietê,Dianteira esquerda,"606,97",sim,AN-0117;AN-0112
+VG-0080,Coifa da homocinética,Transmissão,Vergueiro,Dianteira direita,"345,66",sim,IB-0110
+AN-0106,Coifa da homocinética,Transmissão,Anhembi,Dianteira direita,"545,85",não,TT-0083
+JG-0084,Coxim do câmbio,Transmissão,Jaraguá,,"584,22",não,AN-0109;TT-0088
+PJ-0090,Retentor de câmbio,Transmissão,Pirajuçara,,"339,97",sim,TT-0096
+AN-0107,Homocinética dianteira,Transmissão,Anhembi,Dianteira direita,"604,71",sim,VG-0092
+VG-0081,Coxim do câmbio,Transmissão,Vergueiro,,"188,02",sim,VG-0100;TT-0088
+VG-0082,Homocinética dianteira,Transmissão,Vergueiro,Dianteira esquerda,"173,38",sim,JG-0092;TT-0086
+TT-0087,Retentor de câmbio,Transmissão,Tietê,,"248,88",sim,IB-0121;PJ-0090
+JG-0085,Sincronizador de 2ª e 3ª marcha,Transmissão,Jaraguá,,"401,06",sim,AN-0122;JG-0079
+PJ-0091,Coifa da homocinética,Transmissão,Pirajuçara,Dianteira direita,"505,20",sim,TT-0083;AN-0116
+JG-0086,Homocinética dianteira,Transmissão,Jaraguá,Dianteira esquerda,"371,36",sim,TT-0093
+IB-0106,Sincronizador de 2ª e 3ª marcha,Transmissão,Ibirapuera,,"456,81",sim,JG-0099
+IB-0107,Coifa da homocinética,Transmissão,Ibirapuera,Dianteira esquerda,"323,38",sim,AN-0103;TT-0102
+PJ-0092,Retentor de câmbio,Transmissão,Pirajuçara,,"596,71",sim,IB-0122
+PJ-0093,Coifa da homocinética,Transmissão,Pirajuçara,Dianteira direita,"591,25",não,TT-0094
+VG-0083,Homocinética dianteira,Transmissão,Vergueiro,Dianteira direita,"301,74",sim,JG-0083;VG-0092
+JG-0087,Retentor de câmbio,Transmissão,Jaraguá,,"484,01",sim,AN-0098;JG-0091
+TT-0088,Coxim do câmbio,Transmissão,Tietê,,"336,80",sim,TT-0097
+JG-0088,Coxim do câmbio,Transmissão,Jaraguá,,"466,21",sim,VG-0096
+PJ-0094,Retentor de câmbio,Transmissão,Pirajuçara,,"377,99",sim,AN-0105;PJ-0087
+VG-0084,Coifa da homocinética,Transmissão,Vergueiro,Dianteira direita,"398,96",sim,JG-0095;JG-0078
+VG-0085,Homocinética dianteira,Transmissão,Vergueiro,Dianteira esquerda,"232,84",não,TT-0093
+TT-0089,Coifa da homocinética,Transmissão,Tietê,Dianteira esquerda,"361,74",sim,PJ-0097;TT-0102
+PJ-0095,Retentor de câmbio,Transmissão,Pirajuçara,,"570,94",sim,AN-0124;JG-0097
+VG-0086,Coxim do câmbio,Transmissão,Vergueiro,,"596,45",sim,AN-0109;VG-0100
+JG-0089,Sincronizador de 2ª e 3ª marcha,Transmissão,Jaraguá,,"595,74",sim,IB-0123
+VG-0087,Homocinética dianteira,Transmissão,Vergueiro,Dianteira direita,"373,35",sim,PJ-0086
+TT-0090,Coxim do câmbio,Transmissão,Tietê,,"307,57",sim,VG-0096
+JG-0090,Retentor de câmbio,Transmissão,Jaraguá,,"346,16",sim,AN-0114
+AN-0108,Sincronizador de 2ª e 3ª marcha,Transmissão,Anhembi,,"215,71",sim,VG-0097
+IB-0108,Homocinética dianteira,Transmissão,Ibirapuera,Dianteira direita,"189,81",sim,PJ-0086
+TT-0091,Coifa da homocinética,Transmissão,Tietê,Dianteira esquerda,"455,63",sim,TT-0089;TT-0092
+VG-0088,Homocinética dianteira,Transmissão,Vergueiro,Dianteira direita,"238,20",sim,AN-0099
+JG-0091,Retentor de câmbio,Transmissão,Jaraguá,,"413,29",sim,PJ-0102
+PJ-0096,Coxim do câmbio,Transmissão,Pirajuçara,,"295,64",sim,IB-0115
+IB-0109,Sincronizador de 2ª e 3ª marcha,Transmissão,Ibirapuera,,"413,08",sim,TT-0100;PJ-0099
+TT-0092,Coifa da homocinética,Transmissão,Tietê,Dianteira esquerda,"304,09",sim,TT-0091
+VG-0089,Coxim do câmbio,Transmissão,Vergueiro,,"162,21",sim,JG-0100;AN-0125
+VG-0090,Sincronizador de 2ª e 3ª marcha,Transmissão,Vergueiro,,"171,16",sim,VG-0078
+PJ-0097,Coifa da homocinética,Transmissão,Pirajuçara,Dianteira esquerda,"533,89",não,TT-0092
+TT-0093,Homocinética dianteira,Transmissão,Tietê,Dianteira esquerda,"569,79",sim,VG-0085;JG-0092
+AN-0109,Coxim do câmbio,Transmissão,Anhembi,,"387,95",sim,PJ-0100
+JG-0092,Homocinética dianteira,Transmissão,Jaraguá,Dianteira esquerda,"306,93",sim,VG-0082;AN-0112
+VG-0091,Sincronizador de 2ª e 3ª marcha,Transmissão,Vergueiro,,"163,82",não,AN-0097
+TT-0094,Coifa da homocinética,Transmissão,Tietê,Dianteira direita,"375,55",sim,TT-0082
+IB-0110,Coifa da homocinética,Transmissão,Ibirapuera,Dianteira direita,"273,92",sim,AN-0101
+IB-0111,Retentor de câmbio,Transmissão,Ibirapuera,,"411,88",sim,IB-0100;AN-0098
+VG-0092,Homocinética dianteira,Transmissão,Vergueiro,Dianteira direita,"297,43",sim,VG-0076
+VG-0093,Sincronizador de 2ª e 3ª marcha,Transmissão,Vergueiro,,"172,45",sim,IB-0109
+TT-0095,Homocinética dianteira,Transmissão,Tietê,Dianteira direita,"465,78",não,PJ-0086
+AN-0110,Sincronizador de 2ª e 3ª marcha,Transmissão,Anhembi,,"267,35",sim,JG-0096
+AN-0111,Coifa da homocinética,Transmissão,Anhembi,Dianteira esquerda,"404,13",sim,TT-0089
+TT-0096,Retentor de câmbio,Transmissão,Tietê,,"143,47",sim,PJ-0090;PJ-0102
+AN-0112,Homocinética dianteira,Transmissão,Anhembi,Dianteira esquerda,"257,94",sim,IB-0102;AN-0120
+AN-0113,Sincronizador de 2ª e 3ª marcha,Transmissão,Anhembi,,"186,89",sim,AN-0108
+TT-0097,Coxim do câmbio,Transmissão,Tietê,,"182,52",sim,IB-0120;VG-0086
+AN-0114,Retentor de câmbio,Transmissão,Anhembi,,"168,83",sim,IB-0121;VG-0077
+VG-0094,Coxim do câmbio,Transmissão,Vergueiro,,"264,18",sim,IB-0116;IB-0115
+AN-0115,Homocinética dianteira,Transmissão,Anhembi,Dianteira direita,"590,56",não,VG-0087
+AN-0116,Coifa da homocinética,Transmissão,Anhembi,Dianteira direita,"317,19",sim,TT-0101
+PJ-0098,Retentor de câmbio,Transmissão,Pirajuçara,,"255,19",sim,IB-0111;PJ-0094
+JG-0093,Sincronizador de 2ª e 3ª marcha,Transmissão,Jaraguá,,"429,90",sim,AN-0100
+VG-0095,Coxim do câmbio,Transmissão,Vergueiro,,"569,42",sim,IB-0115;JG-0088
+TT-0098,Sincronizador de 2ª e 3ª marcha,Transmissão,Tietê,,"225,35",sim,VG-0099;JG-0093
+TT-0099,Retentor de câmbio,Transmissão,Tietê,,"236,05",sim,JG-0087;PJ-0090
+AN-0117,Homocinética dianteira,Transmissão,Anhembi,Dianteira esquerda,"560,34",sim,IB-0117
+PJ-0099,Sincronizador de 2ª e 3ª marcha,Transmissão,Pirajuçara,,"249,30",sim,JG-0079
+JG-0094,Retentor de câmbio,Transmissão,Jaraguá,,"567,68",sim,AN-0124;AN-0114
+IB-0112,Coifa da homocinética,Transmissão,Ibirapuera,Dianteira direita,"378,36",sim,AN-0101
+AN-0118,Homocinética dianteira,Transmissão,Anhembi,Dianteira direita,"151,90",sim,IB-0108
+VG-0096,Coxim do câmbio,Transmissão,Vergueiro,,"568,31",sim,VG-0094;AN-0125
+PJ-0100,Coxim do câmbio,Transmissão,Pirajuçara,,"463,63",não,JG-0088
+IB-0113,Coifa da homocinética,Transmissão,Ibirapuera,Dianteira direita,"268,03",sim,TT-0101
+VG-0097,Sincronizador de 2ª e 3ª marcha,Transmissão,Vergueiro,,"145,68",sim,AN-0100;AN-0097
+PJ-0101,Homocinética dianteira,Transmissão,Pirajuçara,Dianteira esquerda,"161,57",não,AN-0120;TT-0086
+IB-0114,Retentor de câmbio,Transmissão,Ibirapuera,,"287,87",não,JG-0080
+JG-0095,Coifa da homocinética,Transmissão,Jaraguá,Dianteira direita,"417,49",sim,TT-0101;AN-0116
+AN-0119,Homocinética dianteira,Transmissão,Anhembi,Dianteira direita,"147,45",sim,JG-0083
+TT-0100,Sincronizador de 2ª e 3ª marcha,Transmissão,Tietê,,"212,33",sim,TT-0084
+IB-0115,Coxim do câmbio,Transmissão,Ibirapuera,,"394,62",sim,AN-0102;VG-0094
+AN-0120,Homocinética dianteira,Transmissão,Anhembi,Dianteira esquerda,"332,71",sim,PJ-0101;JG-0086
+IB-0116,Coxim do câmbio,Transmissão,Ibirapuera,,"568,45",sim,VG-0086;IB-0115
+JG-0096,Sincronizador de 2ª e 3ª marcha,Transmissão,Jaraguá,,"288,66",sim,IB-0123
+JG-0097,Retentor de câmbio,Transmissão,Jaraguá,,"402,23",sim,IB-0122;PJ-0094
+PJ-0102,Retentor de câmbio,Transmissão,Pirajuçara,,"148,99",sim,VG-0101
+AN-0121,Coxim do câmbio,Transmissão,Anhembi,,"259,15",sim,PJ-0088;VG-0095
+AN-0122,Sincronizador de 2ª e 3ª marcha,Transmissão,Anhembi,,"156,53",sim,TT-0100
+IB-0117,Homocinética dianteira,Transmissão,Ibirapuera,Dianteira esquerda,"367,78",não,AN-0112
+AN-0123,Coifa da homocinética,Transmissão,Anhembi,Dianteira direita,"563,59",sim,TT-0083
+IB-0118,Coifa da homocinética,Transmissão,Ibirapuera,Dianteira esquerda,"207,27",sim,PJ-0097;TT-0102
+IB-0119,Homocinética dianteira,Transmissão,Ibirapuera,Dianteira direita,"448,20",sim,AN-0115;IB-0108
+IB-0120,Coxim do câmbio,Transmissão,Ibirapuera,,"516,52",sim,AN-0102;PJ-0096
+AN-0124,Retentor de câmbio,Transmissão,Anhembi,,"427,47",sim,IB-0121
+JG-0098,Sincronizador de 2ª e 3ª marcha,Transmissão,Jaraguá,,"482,94",sim,TT-0084
+IB-0121,Retentor de câmbio,Transmissão,Ibirapuera,,"507,49",sim,VG-0101
+AN-0125,Coxim do câmbio,Transmissão,Anhembi,,"276,20",sim,TT-0088;VG-0086
+VG-0098,Coifa da homocinética,Transmissão,Vergueiro,Dianteira direita,"429,42",sim,JG-0095
+PJ-0103,Homocinética dianteira,Transmissão,Pirajuçara,Dianteira direita,"191,31",não,AN-0107
+VG-0099,Sincronizador de 2ª e 3ª marcha,Transmissão,Vergueiro,,"159,51",sim,TT-0098;JG-0079
+TT-0101,Coifa da homocinética,Transmissão,Tietê,Dianteira direita,"309,61",não,IB-0110;VG-0080
+VG-0100,Coxim do câmbio,Transmissão,Vergueiro,,"217,81",sim,AN-0121
+IB-0122,Retentor de câmbio,Transmissão,Ibirapuera,,"297,01",sim,PJ-0094;TT-0099
+TT-0102,Coifa da homocinética,Transmissão,Tietê,Dianteira esquerda,"454,95",sim,IB-0118
+TT-0103,Coxim do câmbio,Transmissão,Tietê,,"282,97",sim,IB-0120
+IB-0123,Sincronizador de 2ª e 3ª marcha,Transmissão,Ibirapuera,,"500,52",não,PJ-0099
+VG-0101,Retentor de câmbio,Transmissão,Vergueiro,,"417,83",sim,PJ-0087
+VG-0102,Homocinética dianteira,Transmissão,Vergueiro,Dianteira direita,"539,96",sim,AN-0115
+JG-0099,Sincronizador de 2ª e 3ª marcha,Transmissão,Jaraguá,,"164,70",não,IB-0109;TT-0084
+AN-0126,Coifa da homocinética,Transmissão,Anhembi,Dianteira direita,"259,82",não,IB-0113;TT-0101
+JG-0100,Coxim do câmbio,Transmissão,Jaraguá,,"391,73",sim,VG-0086
+TT-0104,Correia dentada,Motor,Tietê,,"267,17",sim,VG-0105
+AN-0127,Correia dentada,Motor,Anhembi,,"329,16",sim,VG-0103;PJ-0104
+VG-0103,Correia dentada,Motor,Vergueiro,,"481,15",sim,JG-0103
+VG-0104,Correia dentada,Motor,Vergueiro,,"338,01",sim,PJ-0105;VG-0103
+JG-0101,Correia dentada,Motor,Jaraguá,,"266,20",não,IB-0126
+TT-0105,Correia dentada,Motor,Tietê,,"285,97",sim,VG-0104
+AN-0128,Correia dentada,Motor,Anhembi,,"404,94",sim,VG-0106
+IB-0124,Correia dentada,Motor,Ibirapuera,,"58,08",não,PJ-0105
+PJ-0104,Correia dentada,Motor,Pirajuçara,,"195,07",sim,VG-0105;TT-0104
+IB-0125,Correia dentada,Motor,Ibirapuera,,"155,33",sim,VG-0105;JG-0103
+IB-0126,Correia dentada,Motor,Ibirapuera,,"68,15",sim,JG-0102
+TT-0106,Correia dentada,Motor,Tietê,,"249,85",não,TT-0104
+PJ-0105,Correia dentada,Motor,Pirajuçara,,"381,80",não,JG-0101
+TT-0107,Correia dentada,Motor,Tietê,,"496,38",não,IB-0126;VG-0104
+JG-0102,Correia dentada,Motor,Jaraguá,,"323,08",não,PJ-0105
+JG-0103,Correia dentada,Motor,Jaraguá,,"451,14",sim,VG-0103
+VG-0105,Correia dentada,Motor,Vergueiro,,"188,95",sim,PJ-0106;AN-0127
+PJ-0106,Correia dentada,Motor,Pirajuçara,,"205,93",sim,JG-0101;VG-0106
+VG-0106,Correia dentada,Motor,Vergueiro,,"173,16",sim,TT-0107;PJ-0105
+JG-0104,Correia dentada,Motor,Jaraguá,,"308,71",sim,AN-0127;JG-0102
+AN-0129,Kit de correia dentada com tensor,Motor,Anhembi,,"62,58",sim,TT-0111
+IB-0127,Kit de correia dentada com tensor,Motor,Ibirapuera,,"310,69",sim,AN-0129
+TT-0108,Kit de correia dentada com tensor,Motor,Tietê,,"369,66",sim,VG-0108
+IB-0128,Kit de correia dentada com tensor,Motor,Ibirapuera,,"400,86",sim,TT-0110
+PJ-0107,Kit de correia dentada com tensor,Motor,Pirajuçara,,"306,30",sim,TT-0112
+JG-0105,Kit de correia dentada com tensor,Motor,Jaraguá,,"413,61",sim,TT-0113
+TT-0109,Kit de correia dentada com tensor,Motor,Tietê,,"393,67",sim,PJ-0108;IB-0127
+IB-0129,Kit de correia dentada com tensor,Motor,Ibirapuera,,"481,45",sim,IB-0130
+PJ-0108,Kit de correia dentada com tensor,Motor,Pirajuçara,,"331,36",sim,PJ-0107;TT-0115
+IB-0130,Kit de correia dentada com tensor,Motor,Ibirapuera,,"135,66",não,VG-0108
+TT-0110,Kit de correia dentada com tensor,Motor,Tietê,,"417,41",sim,TT-0114
+TT-0111,Kit de correia dentada com tensor,Motor,Tietê,,"356,82",sim,IB-0130
+TT-0112,Kit de correia dentada com tensor,Motor,Tietê,,"493,90",sim,PJ-0108
+TT-0113,Kit de correia dentada com tensor,Motor,Tietê,,"209,02",sim,TT-0111;JG-0105
+TT-0114,Kit de correia dentada com tensor,Motor,Tietê,,"482,95",sim,TT-0112;JG-0105
+TT-0115,Kit de correia dentada com tensor,Motor,Tietê,,"393,36",sim,PJ-0109;VG-0107
+IB-0131,Kit de correia dentada com tensor,Motor,Ibirapuera,,"379,59",sim,IB-0128
+VG-0107,Kit de correia dentada com tensor,Motor,Vergueiro,,"93,34",sim,AN-0129;TT-0108
+VG-0108,Kit de correia dentada com tensor,Motor,Vergueiro,,"470,50",sim,VG-0107;TT-0108
+PJ-0109,Kit de correia dentada com tensor,Motor,Pirajuçara,,"116,74",sim,TT-0110
+JG-0106,Bomba d'água,Motor,Jaraguá,,"68,31",sim,AN-0132;IB-0137
+IB-0132,Bomba d'água,Motor,Ibirapuera,,"518,58",sim,AN-0130;JG-0108
+IB-0133,Bomba d'água,Motor,Ibirapuera,,"178,66",sim,PJ-0112;IB-0136
+TT-0116,Bomba d'água,Motor,Tietê,,"394,89",sim,TT-0118;AN-0130
+AN-0130,Bomba d'água,Motor,Anhembi,,"400,48",sim,PJ-0111
+PJ-0110,Bomba d'água,Motor,Pirajuçara,,"88,92",não,IB-0132;VG-0110
+JG-0107,Bomba d'água,Motor,Jaraguá,,"142,73",sim,IB-0134
+VG-0109,Bomba d'água,Motor,Vergueiro,,"67,58",sim,JG-0108;JG-0106
+AN-0131,Bomba d'água,Motor,Anhembi,,"506,66",sim,IB-0137
+AN-0132,Bomba d'água,Motor,Anhembi,,"503,78",sim,JG-0108
+IB-0134,Bomba d'água,Motor,Ibirapuera,,"514,02",sim,JG-0106
+PJ-0111,Bomba d'água,Motor,Pirajuçara,,"355,90",sim,TT-0117
+TT-0117,Bomba d'água,Motor,Tietê,,"115,61",sim,TT-0118
+JG-0108,Bomba d'água,Motor,Jaraguá,,"381,86",sim,JG-0107
+PJ-0112,Bomba d'água,Motor,Pirajuçara,,"221,51",sim,AN-0131;IB-0134
+IB-0135,Bomba d'água,Motor,Ibirapuera,,"387,35",sim,JG-0107
+VG-0110,Bomba d'água,Motor,Vergueiro,,"403,58",sim,AN-0132
+IB-0136,Bomba d'água,Motor,Ibirapuera,,"135,68",sim,AN-0131;PJ-0110
+TT-0118,Bomba d'água,Motor,Tietê,,"468,32",sim,TT-0117
+IB-0137,Bomba d'água,Motor,Ibirapuera,,"399,07",sim,TT-0118
+AN-0133,Junta do cabeçote,Motor,Anhembi,,"88,77",sim,PJ-0114
+TT-0119,Junta do cabeçote,Motor,Tietê,,"125,29",sim,TT-0123
+AN-0134,Junta do cabeçote,Motor,Anhembi,,"328,43",sim,IB-0138;JG-0112
+PJ-0113,Junta do cabeçote,Motor,Pirajuçara,,"506,97",sim,TT-0119
+JG-0109,Junta do cabeçote,Motor,Jaraguá,,"179,23",sim,TT-0122;JG-0114
+IB-0138,Junta do cabeçote,Motor,Ibirapuera,,"112,80",não,JG-0112;TT-0119
+AN-0135,Junta do cabeçote,Motor,Anhembi,,"166,99",sim,JG-0112
+TT-0120,Junta do cabeçote,Motor,Tietê,,"275,40",sim,PJ-0113;PJ-0114
+JG-0110,Junta do cabeçote,Motor,Jaraguá,,"66,45",sim,JG-0111;PJ-0113
+TT-0121,Junta do cabeçote,Motor,Tietê,,"225,73",não,VG-0111;JG-0112
+VG-0111,Junta do cabeçote,Motor,Vergueiro,,"424,05",não,AN-0135
+JG-0111,Junta do cabeçote,Motor,Jaraguá,,"126,46",sim,PJ-0113;TT-0120
+AN-0136,Junta do cabeçote,Motor,Anhembi,,"235,68",sim,JG-0110
+JG-0112,Junta do cabeçote,Motor,Jaraguá,,"310,47",sim,JG-0111;PJ-0114
+JG-0113,Junta do cabeçote,Motor,Jaraguá,,"447,76",sim,AN-0135;PJ-0114
+TT-0122,Junta do cabeçote,Motor,Tietê,,"357,98",sim,VG-0112
+JG-0114,Junta do cabeçote,Motor,Jaraguá,,"339,13",sim,AN-0134
+TT-0123,Junta do cabeçote,Motor,Tietê,,"515,19",sim,AN-0133;TT-0120
+VG-0112,Junta do cabeçote,Motor,Vergueiro,,"250,19",sim,AN-0134
+PJ-0114,Junta do cabeçote,Motor,Pirajuçara,,"343,00",sim,JG-0110;JG-0113
+TT-0124,Coxim do motor,Motor,Tietê,Traseira,"90,88",sim,AN-0137
+JG-0115,Coxim do motor,Motor,Jaraguá,Dianteira,"491,11",sim,AN-0140
+PJ-0115,Coxim do motor,Motor,Pirajuçara,Dianteira,"355,05",sim,VG-0113
+JG-0116,Coxim do motor,Motor,Jaraguá,Dianteira,"257,16",sim,PJ-0117;VG-0116
+VG-0113,Coxim do motor,Motor,Vergueiro,Dianteira,"285,92",sim,PJ-0115
+PJ-0116,Coxim do motor,Motor,Pirajuçara,Dianteira,"466,84",não,PJ-0118
+AN-0137,Coxim do motor,Motor,Anhembi,Traseira,"169,63",sim,VG-0119;TT-0124
+PJ-0117,Coxim do motor,Motor,Pirajuçara,Dianteira,"244,61",sim,AN-0142;VG-0117
+AN-0138,Coxim do motor,Motor,Anhembi,Dianteira,"311,13",sim,VG-0113;VG-0115
+TT-0125,Coxim do motor,Motor,Tietê,Traseira,"291,38",sim,AN-0141;JG-0118
+VG-0114,Coxim do motor,Motor,Vergueiro,Dianteira,"46,70",sim,PJ-0115
+VG-0115,Coxim do motor,Motor,Vergueiro,Dianteira,"494,32",sim,AN-0142
+PJ-0118,Coxim do motor,Motor,Pirajuçara,Dianteira,"438,64",sim,IB-0139
+TT-0126,Coxim do motor,Motor,Tietê,Traseira,"329,79",sim,AN-0139;AN-0141
+VG-0116,Coxim do motor,Motor,Vergueiro,Dianteira,"193,96",sim,VG-0114
+TT-0127,Coxim do motor,Motor,Tietê,Dianteira,"83,29",sim,JG-0115
+IB-0139,Coxim do motor,Motor,Ibirapuera,Dianteira,"375,81",sim,AN-0142;AN-0138
+JG-0117,Coxim do motor,Motor,Jaraguá,Traseira,"219,06",sim,VG-0119;JG-0118
+JG-0118,Coxim do motor,Motor,Jaraguá,Traseira,"145,96",não,AN-0137
+VG-0117,Coxim do motor,Motor,Vergueiro,Dianteira,"406,72",sim,PJ-0115
+PJ-0119,Coxim do motor,Motor,Pirajuçara,Dianteira,"184,48",sim,PJ-0117;VG-0116
+JG-0119,Coxim do motor,Motor,Jaraguá,Dianteira,"175,46",sim,PJ-0117
+AN-0139,Coxim do motor,Motor,Anhembi,Traseira,"420,92",sim,VG-0119;JG-0118
+AN-0140,Coxim do motor,Motor,Anhembi,Dianteira,"101,37",sim,JG-0116;JG-0119
+VG-0118,Coxim do motor,Motor,Vergueiro,Dianteira,"365,43",sim,PJ-0118;VG-0115
+AN-0141,Coxim do motor,Motor,Anhembi,Traseira,"400,36",não,JG-0118
+AN-0142,Coxim do motor,Motor,Anhembi,Dianteira,"315,39",sim,IB-0139;TT-0127
+VG-0119,Coxim do motor,Motor,Vergueiro,Traseira,"186,64",sim,AN-0141
+IB-0140,Bico injetor,Motor,Ibirapuera,,"61,61",sim,AN-0144
+TT-0128,Bico injetor,Motor,Tietê,,"244,19",sim,PJ-0120
+JG-0120,Bico injetor,Motor,Jaraguá,,"202,78",sim,AN-0143
+VG-0120,Bico injetor,Motor,Vergueiro,,"467,18",sim,VG-0123
+VG-0121,Bico injetor,Motor,Vergueiro,,"421,73",sim,JG-0120
+AN-0143,Bico injetor,Motor,Anhembi,,"188,72",sim,TT-0130
+AN-0144,Bico injetor,Motor,Anhembi,,"516,14",sim,AN-0143;AN-0146
+TT-0129,Bico injetor,Motor,Tietê,,"212,24",sim,PJ-0121;TT-0130
+TT-0130,Bico injetor,Motor,Tietê,,"453,59",sim,TT-0131;IB-0141
+VG-0122,Bico injetor,Motor,Vergueiro,,"374,75",sim,TT-0128;PJ-0120
+VG-0123,Bico injetor,Motor,Vergueiro,,"481,30",sim,AN-0143;PJ-0122
+IB-0141,Bico injetor,Motor,Ibirapuera,,"426,27",sim,TT-0128;AN-0145
+PJ-0120,Bico injetor,Motor,Pirajuçara,,"248,17",sim,VG-0123;TT-0130
+IB-0142,Bico injetor,Motor,Ibirapuera,,"114,51",sim,VG-0123
+AN-0145,Bico injetor,Motor,Anhembi,,"169,77",sim,VG-0120
+TT-0131,Bico injetor,Motor,Tietê,,"278,45",sim,AN-0145;TT-0129
+PJ-0121,Bico injetor,Motor,Pirajuçara,,"124,47",sim,VG-0122;JG-0121
+PJ-0122,Bico injetor,Motor,Pirajuçara,,"452,32",sim,TT-0128
+AN-0146,Bico injetor,Motor,Anhembi,,"201,27",sim,PJ-0122
+JG-0121,Bico injetor,Motor,Jaraguá,,"446,92",sim,JG-0120
+AN-0147,Sensor de posição do virabrequim,Motor,Anhembi,,"505,85",sim,VG-0126;AN-0151
+AN-0148,Sensor de posição do virabrequim,Motor,Anhembi,,"208,97",sim,PJ-0123;TT-0135
+VG-0124,Sensor de posição do virabrequim,Motor,Vergueiro,,"75,19",sim,TT-0133;AN-0148
+PJ-0123,Sensor de posição do virabrequim,Motor,Pirajuçara,,"463,10",sim,TT-0135
+TT-0132,Sensor de posição do virabrequim,Motor,Tietê,,"250,14",não,JG-0125;PJ-0126
+AN-0149,Sensor de posição do virabrequim,Motor,Anhembi,,"454,02",sim,VG-0128
+PJ-0124,Sensor de posição do virabrequim,Motor,Pirajuçara,,"235,56",sim,JG-0123
+TT-0133,Sensor de posição do virabrequim,Motor,Tietê,,"176,75",sim,PJ-0127;AN-0149
+PJ-0125,Sensor de posição do virabrequim,Motor,Pirajuçara,,"119,27",sim,TT-0133
+JG-0122,Sensor de posição do virabrequim,Motor,Jaraguá,,"488,89",não,VG-0125;PJ-0127
+VG-0125,Sensor de posição do virabrequim,Motor,Vergueiro,,"225,79",sim,TT-0136;AN-0150
+TT-0134,Sensor de posição do virabrequim,Motor,Tietê,,"77,76",sim,TT-0136
+JG-0123,Sensor de posição do virabrequim,Motor,Jaraguá,,"105,05",sim,AN-0147;PJ-0123
+JG-0124,Sensor de posição do virabrequim,Motor,Jaraguá,,"175,75",não,JG-0125
+VG-0126,Sensor de posição do virabrequim,Motor,Vergueiro,,"389,63",sim,VG-0124;JG-0126
+IB-0143,Sensor de posição do virabrequim,Motor,Ibirapuera,,"123,59",sim,VG-0128;TT-0132
+TT-0135,Sensor de posição do virabrequim,Motor,Tietê,,"317,68",sim,TT-0133
+AN-0150,Sensor de posição do virabrequim,Motor,Anhembi,,"259,75",não,TT-0136;PJ-0125
+AN-0151,Sensor de posição do virabrequim,Motor,Anhembi,,"143,59",sim,VG-0126
+TT-0136,Sensor de posição do virabrequim,Motor,Tietê,,"108,17",sim,IB-0144
+JG-0125,Sensor de posição do virabrequim,Motor,Jaraguá,,"441,55",não,PJ-0127
+JG-0126,Sensor de posição do virabrequim,Motor,Jaraguá,,"412,52",não,JG-0124;VG-0126
+PJ-0126,Sensor de posição do virabrequim,Motor,Pirajuçara,,"314,66",sim,IB-0144;PJ-0124
+VG-0127,Sensor de posição do virabrequim,Motor,Vergueiro,,"73,22",sim,TT-0134
+TT-0137,Sensor de posição do virabrequim,Motor,Tietê,,"284,49",sim,PJ-0127
+VG-0128,Sensor de posição do virabrequim,Motor,Vergueiro,,"85,00",sim,TT-0134;TT-0132
+IB-0144,Sensor de posição do virabrequim,Motor,Ibirapuera,,"362,55",sim,VG-0128
+PJ-0127,Sensor de posição do virabrequim,Motor,Pirajuçara,,"58,93",sim,PJ-0124;TT-0136
+VG-0129,Válvula de admissão,Motor,Vergueiro,,"45,41",sim,IB-0146;JG-0131
+TT-0138,Válvula de admissão,Motor,Tietê,,"177,70",sim,IB-0145;JG-0131
+VG-0130,Válvula de admissão,Motor,Vergueiro,,"222,92",sim,JG-0131
+PJ-0128,Válvula de admissão,Motor,Pirajuçara,,"467,97",sim,IB-0145;VG-0130
+IB-0145,Válvula de admissão,Motor,Ibirapuera,,"113,68",sim,VG-0129
+PJ-0129,Válvula de admissão,Motor,Pirajuçara,,"332,38",sim,JG-0132;PJ-0128
+JG-0127,Válvula de admissão,Motor,Jaraguá,,"468,94",sim,JG-0129
+JG-0128,Válvula de admissão,Motor,Jaraguá,,"45,32",sim,JG-0130
+JG-0129,Válvula de admissão,Motor,Jaraguá,,"288,90",sim,IB-0148;IB-0145
+AN-0152,Válvula de admissão,Motor,Anhembi,,"114,05",sim,JG-0127
+IB-0146,Válvula de admissão,Motor,Ibirapuera,,"210,26",sim,AN-0153
+TT-0139,Válvula de admissão,Motor,Tietê,,"58,04",sim,TT-0140
+TT-0140,Válvula de admissão,Motor,Tietê,,"173,05",sim,JG-0132;VG-0129
+IB-0147,Válvula de admissão,Motor,Ibirapuera,,"278,58",sim,VG-0130
+TT-0141,Válvula de admissão,Motor,Tietê,,"353,34",não,PJ-0128;AN-0153
+JG-0130,Válvula de admissão,Motor,Jaraguá,,"226,96",sim,PJ-0129
+IB-0148,Válvula de admissão,Motor,Ibirapuera,,"325,44",sim,JG-0132
+AN-0153,Válvula de admissão,Motor,Anhembi,,"176,61",sim,IB-0145
+JG-0131,Válvula de admissão,Motor,Jaraguá,,"281,62",sim,AN-0152;JG-0132
+JG-0132,Válvula de admissão,Motor,Jaraguá,,"418,27",sim,IB-0145
+AN-0154,Alternador,Elétrica,Anhembi,,"248,07",sim,IB-0153
+IB-0149,Alternador,Elétrica,Ibirapuera,,"103,46",sim,AN-0158;IB-0153
+PJ-0130,Alternador,Elétrica,Pirajuçara,,"598,43",sim,AN-0159
+VG-0131,Alternador,Elétrica,Vergueiro,,"626,57",sim,AN-0155
+PJ-0131,Alternador,Elétrica,Pirajuçara,,"565,59",sim,JG-0134
+VG-0132,Alternador,Elétrica,Vergueiro,,"530,02",sim,PJ-0130
+AN-0155,Alternador,Elétrica,Anhembi,,"199,39",sim,IB-0154
+JG-0133,Alternador,Elétrica,Jaraguá,,"424,45",sim,TT-0143;VG-0132
+JG-0134,Alternador,Elétrica,Jaraguá,,"293,80",sim,IB-0150;AN-0157
+AN-0156,Alternador,Elétrica,Anhembi,,"252,58",não,IB-0149;PJ-0133
+PJ-0132,Alternador,Elétrica,Pirajuçara,,"362,93",sim,VG-0133;PJ-0131
+IB-0150,Alternador,Elétrica,Ibirapuera,,"578,03",sim,IB-0152
+IB-0151,Alternador,Elétrica,Ibirapuera,,"557,95",sim,IB-0153
+JG-0135,Alternador,Elétrica,Jaraguá,,"675,63",não,VG-0131;IB-0152
+VG-0133,Alternador,Elétrica,Vergueiro,,"597,08",sim,TT-0142;PJ-0130
+JG-0136,Alternador,Elétrica,Jaraguá,,"445,74",sim,TT-0144
+IB-0152,Alternador,Elétrica,Ibirapuera,,"337,20",sim,AN-0158;PJ-0133
+PJ-0133,Alternador,Elétrica,Pirajuçara,,"628,61",sim,PJ-0130;TT-0142
+TT-0142,Alternador,Elétrica,Tietê,,"205,12",sim,AN-0154
+AN-0157,Alternador,Elétrica,Anhembi,,"164,05",sim,IB-0151
+TT-0143,Alternador,Elétrica,Tietê,,"601,10",sim,TT-0144
+IB-0153,Alternador,Elétrica,Ibirapuera,,"533,70",sim,PJ-0131;AN-0159
+AN-0158,Alternador,Elétrica,Anhembi,,"711,86",sim,PJ-0132
+JG-0137,Alternador,Elétrica,Jaraguá,,"456,84",sim,IB-0154
+IB-0154,Alternador,Elétrica,Ibirapuera,,"134,80",sim,VG-0131
+AN-0159,Alternador,Elétrica,Anhembi,,"410,86",sim,IB-0150
+TT-0144,Alternador,Elétrica,Tietê,,"209,01",sim,IB-0152;IB-0153
+TT-0145,Alternador,Elétrica,Tietê,,"174,15",sim,VG-0133;AN-0154
+IB-0155,Motor de arranque,Elétrica,Ibirapuera,,"171,40",sim,IB-0160
+JG-0138,Motor de arranque,Elétrica,Jaraguá,,"543,43",sim,JG-0141
+AN-0160,Motor de arranque,Elétrica,Anhembi,,"756,83",sim,TT-0147
+IB-0156,Motor de arranque,Elétrica,Ibirapuera,,"333,82",não,AN-0161;PJ-0140
+JG-0139,Motor de arranque,Elétrica,Jaraguá,,"527,73",sim,PJ-0136;PJ-0141
+AN-0161,Motor de arranque,Elétrica,Anhembi,,"253,03",sim,AN-0160;VG-0135
+IB-0157,Motor de arranque,Elétrica,Ibirapuera,,"400,92",sim,IB-0160;JG-0138
+JG-0140,Motor de arranque,Elétrica,Jaraguá,,"161,42",sim,TT-0146
+PJ-0134,Motor de arranque,Elétrica,Pirajuçara,,"779,67",não,JG-0140;IB-0155
+JG-0141,Motor de arranque,Elétrica,Jaraguá,,"527,73",sim,TT-0146
+PJ-0135,Motor de arranque,Elétrica,Pirajuçara,,"263,90",sim,IB-0158;JG-0138
+VG-0134,Motor de arranque,Elétrica,Vergueiro,,"309,84",sim,PJ-0138
+IB-0158,Motor de arranque,Elétrica,Ibirapuera,,"173,12",sim,PJ-0140
+PJ-0136,Motor de arranque,Elétrica,Pirajuçara,,"612,97",sim,PJ-0140;VG-0135
+TT-0146,Motor de arranque,Elétrica,Tietê,,"122,01",sim,VG-0136;JG-0139
+PJ-0137,Motor de arranque,Elétrica,Pirajuçara,,"466,72",sim,IB-0155
+VG-0135,Motor de arranque,Elétrica,Vergueiro,,"420,89",sim,AN-0161;JG-0138
+VG-0136,Motor de arranque,Elétrica,Vergueiro,,"507,21",sim,PJ-0135
+IB-0159,Motor de arranque,Elétrica,Ibirapuera,,"289,25",sim,PJ-0141;IB-0156
+PJ-0138,Motor de arranque,Elétrica,Pirajuçara,,"661,53",sim,VG-0135
+TT-0147,Motor de arranque,Elétrica,Tietê,,"257,33",sim,AN-0161;PJ-0140
+JG-0142,Motor de arranque,Elétrica,Jaraguá,,"225,86",sim,VG-0135;PJ-0134
+PJ-0139,Motor de arranque,Elétrica,Pirajuçara,,"480,81",sim,PJ-0134
+VG-0137,Motor de arranque,Elétrica,Vergueiro,,"261,17",sim,IB-0156
+PJ-0140,Motor de arranque,Elétrica,Pirajuçara,,"724,93",sim,JG-0142;VG-0137
+IB-0160,Motor de arranque,Elétrica,Ibirapuera,,"706,21",sim,JG-0138;PJ-0136
+PJ-0141,Motor de arranque,Elétrica,Pirajuçara,,"712,96",sim,PJ-0140
+PJ-0142,Motor de arranque,Elétrica,Pirajuçara,,"158,22",sim,IB-0157;JG-0142
+IB-0161,Sensor de rotação,Elétrica,Ibirapuera,,"197,76",não,VG-0140
+VG-0138,Sensor de rotação,Elétrica,Vergueiro,,"647,11",sim,VG-0139
+TT-0148,Sensor de rotação,Elétrica,Tietê,,"143,41",não,VG-0140;IB-0162
+VG-0139,Sensor de rotação,Elétrica,Vergueiro,,"487,48",sim,IB-0162
+JG-0143,Sensor de rotação,Elétrica,Jaraguá,,"584,82",sim,TT-0148
+TT-0149,Sensor de rotação,Elétrica,Tietê,,"428,90",sim,TT-0148;IB-0165
+JG-0144,Sensor de rotação,Elétrica,Jaraguá,,"521,44",sim,PJ-0144
+IB-0162,Sensor de rotação,Elétrica,Ibirapuera,,"275,71",não,VG-0140
+PJ-0143,Sensor de rotação,Elétrica,Pirajuçara,,"582,67",sim,IB-0161
+IB-0163,Sensor de rotação,Elétrica,Ibirapuera,,"451,47",sim,VG-0140;TT-0150
+VG-0140,Sensor de rotação,Elétrica,Vergueiro,,"614,15",não,TT-0150
+TT-0150,Sensor de rotação,Elétrica,Tietê,,"99,90",sim,IB-0161
+IB-0164,Sensor de rotação,Elétrica,Ibirapuera,,"769,68",sim,VG-0139;TT-0150
+IB-0165,Sensor de rotação,Elétrica,Ibirapuera,,"96,18",sim,TT-0149;JG-0144
+AN-0162,Sensor de rotação,Elétrica,Anhembi,,"197,52",sim,VG-0138;VG-0141
+JG-0145,Sensor de rotação,Elétrica,Jaraguá,,"561,75",não,IB-0163
+VG-0141,Sensor de rotação,Elétrica,Vergueiro,,"393,30",sim,IB-0165
+VG-0142,Sensor de rotação,Elétrica,Vergueiro,,"183,20",sim,AN-0162;JG-0146
+PJ-0144,Sensor de rotação,Elétrica,Pirajuçara,,"707,97",sim,IB-0164;VG-0138
+JG-0146,Sensor de rotação,Elétrica,Jaraguá,,"212,00",não,VG-0140
+TT-0151,Bateria 60Ah,Elétrica,Tietê,,"451,74",sim,JG-0152;PJ-0148
+AN-0163,Bateria 60Ah,Elétrica,Anhembi,,"228,41",sim,JG-0152
+VG-0143,Bateria 60Ah,Elétrica,Vergueiro,,"698,35",sim,TT-0151
+PJ-0145,Bateria 60Ah,Elétrica,Pirajuçara,,"423,60",sim,VG-0146
+JG-0147,Bateria 60Ah,Elétrica,Jaraguá,,"259,56",não,VG-0143
+TT-0152,Bateria 60Ah,Elétrica,Tietê,,"209,72",sim,PJ-0150
+PJ-0146,Bateria 60Ah,Elétrica,Pirajuçara,,"93,49",sim,VG-0145;VG-0144
+AN-0164,Bateria 60Ah,Elétrica,Anhembi,,"720,26",sim,AN-0167;JG-0148
+VG-0144,Bateria 60Ah,Elétrica,Vergueiro,,"510,58",não,AN-0165
+JG-0148,Bateria 60Ah,Elétrica,Jaraguá,,"391,38",sim,VG-0144;PJ-0148
+IB-0166,Bateria 60Ah,Elétrica,Ibirapuera,,"665,68",sim,AN-0166;AN-0167
+AN-0165,Bateria 60Ah,Elétrica,Anhembi,,"511,50",sim,JG-0148
+TT-0153,Bateria 60Ah,Elétrica,Tietê,,"135,69",sim,IB-0167
+PJ-0147,Bateria 60Ah,Elétrica,Pirajuçara,,"345,32",sim,VG-0145;PJ-0150
+IB-0167,Bateria 60Ah,Elétrica,Ibirapuera,,"380,70",sim,JG-0147;JG-0148
+JG-0149,Bateria 60Ah,Elétrica,Jaraguá,,"548,46",sim,VG-0144
+JG-0150,Bateria 60Ah,Elétrica,Jaraguá,,"535,61",não,PJ-0147;AN-0163
+VG-0145,Bateria 60Ah,Elétrica,Vergueiro,,"667,77",sim,PJ-0145
+IB-0168,Bateria 60Ah,Elétrica,Ibirapuera,,"694,46",sim,IB-0167
+VG-0146,Bateria 60Ah,Elétrica,Vergueiro,,"203,97",sim,PJ-0148
+AN-0166,Bateria 60Ah,Elétrica,Anhembi,,"267,28",sim,AN-0163;TT-0152
+AN-0167,Bateria 60Ah,Elétrica,Anhembi,,"685,44",sim,TT-0151
+TT-0154,Bateria 60Ah,Elétrica,Tietê,,"491,69",sim,JG-0150
+JG-0151,Bateria 60Ah,Elétrica,Jaraguá,,"427,06",sim,PJ-0149
+PJ-0148,Bateria 60Ah,Elétrica,Pirajuçara,,"586,23",sim,IB-0167
+JG-0152,Bateria 60Ah,Elétrica,Jaraguá,,"126,19",sim,PJ-0148
+PJ-0149,Bateria 60Ah,Elétrica,Pirajuçara,,"715,90",sim,AN-0166;TT-0153
+PJ-0150,Bateria 60Ah,Elétrica,Pirajuçara,,"136,24",sim,IB-0166;TT-0152
+IB-0169,Chicote do injetor,Elétrica,Ibirapuera,,"594,01",sim,VG-0147;AN-0169
+AN-0168,Chicote do injetor,Elétrica,Anhembi,,"315,78",sim,TT-0155
+AN-0169,Chicote do injetor,Elétrica,Anhembi,,"131,22",não,AN-0170
+VG-0147,Chicote do injetor,Elétrica,Vergueiro,,"710,90",sim,VG-0151;VG-0148
+IB-0170,Chicote do injetor,Elétrica,Ibirapuera,,"730,42",sim,VG-0151
+JG-0153,Chicote do injetor,Elétrica,Jaraguá,,"768,74",sim,IB-0170
+TT-0155,Chicote do injetor,Elétrica,Tietê,,"271,08",sim,VG-0148
+VG-0148,Chicote do injetor,Elétrica,Vergueiro,,"136,53",sim,AN-0168
+VG-0149,Chicote do injetor,Elétrica,Vergueiro,,"464,41",sim,VG-0150;IB-0171
+VG-0150,Chicote do injetor,Elétrica,Vergueiro,,"699,71",sim,AN-0169
+IB-0171,Chicote do injetor,Elétrica,Ibirapuera,,"113,87",sim,IB-0170;AN-0170
+AN-0170,Chicote do injetor,Elétrica,Anhembi,,"753,41",sim,VG-0151
+VG-0151,Chicote do injetor,Elétrica,Vergueiro,,"281,23",sim,VG-0149;VG-0148
+PJ-0151,Chicote do injetor,Elétrica,Pirajuçara,,"420,65",sim,PJ-0152
+AN-0171,Chicote do injetor,Elétrica,Anhembi,,"196,15",sim,IB-0169;VG-0150
+AN-0172,Chicote do injetor,Elétrica,Anhembi,,"730,84",sim,AN-0173;JG-0153
+AN-0173,Chicote do injetor,Elétrica,Anhembi,,"545,69",sim,AN-0168;PJ-0152
+PJ-0152,Chicote do injetor,Elétrica,Pirajuçara,,"383,49",sim,IB-0170;AN-0170
+PJ-0153,Chicote do injetor,Elétrica,Pirajuçara,,"683,07",sim,AN-0172
+VG-0152,Chicote do injetor,Elétrica,Vergueiro,,"364,39",sim,AN-0168;AN-0172
+PJ-0154,Bobina de ignição,Elétrica,Pirajuçara,,"98,90",sim,VG-0154;IB-0173
+IB-0172,Bobina de ignição,Elétrica,Ibirapuera,,"186,41",sim,VG-0154;JG-0155
+IB-0173,Bobina de ignição,Elétrica,Ibirapuera,,"190,14",sim,JG-0154;PJ-0155
+JG-0154,Bobina de ignição,Elétrica,Jaraguá,,"93,59",sim,VG-0154;JG-0158
+TT-0156,Bobina de ignição,Elétrica,Tietê,,"188,40",sim,TT-0157
+VG-0153,Bobina de ignição,Elétrica,Vergueiro,,"151,49",sim,TT-0160;VG-0156
+VG-0154,Bobina de ignição,Elétrica,Vergueiro,,"265,11",sim,VG-0156
+TT-0157,Bobina de ignição,Elétrica,Tietê,,"178,07",sim,VG-0153
+JG-0155,Bobina de ignição,Elétrica,Jaraguá,,"174,42",sim,TT-0158
+JG-0156,Bobina de ignição,Elétrica,Jaraguá,,"614,31",sim,VG-0153;IB-0172
+VG-0155,Bobina de ignição,Elétrica,Vergueiro,,"770,13",sim,IB-0172
+TT-0158,Bobina de ignição,Elétrica,Tietê,,"171,02",sim,PJ-0155;VG-0154
+JG-0157,Bobina de ignição,Elétrica,Jaraguá,,"639,31",sim,JG-0155
+TT-0159,Bobina de ignição,Elétrica,Tietê,,"503,73",sim,TT-0158;JG-0154
+JG-0158,Bobina de ignição,Elétrica,Jaraguá,,"444,54",sim,TT-0156
+PJ-0155,Bobina de ignição,Elétrica,Pirajuçara,,"214,44",sim,TT-0159;JG-0155
+IB-0174,Bobina de ignição,Elétrica,Ibirapuera,,"676,08",sim,IB-0172
+TT-0160,Bobina de ignição,Elétrica,Tietê,,"543,76",sim,TT-0157
+VG-0156,Bobina de ignição,Elétrica,Vergueiro,,"717,88",não,VG-0155;TT-0160
+VG-0157,Bobina de ignição,Elétrica,Vergueiro,,"92,28",não,TT-0160
+VG-0158,Jogo de velas de ignição,Elétrica,Vergueiro,,"348,91",sim,IB-0175;IB-0177
+VG-0159,Jogo de velas de ignição,Elétrica,Vergueiro,,"504,37",sim,TT-0161;IB-0178
+AN-0174,Jogo de velas de ignição,Elétrica,Anhembi,,"666,18",sim,AN-0179;TT-0162
+IB-0175,Jogo de velas de ignição,Elétrica,Ibirapuera,,"291,20",não,AN-0179;PJ-0156
+TT-0161,Jogo de velas de ignição,Elétrica,Tietê,,"292,33",sim,AN-0176
+VG-0160,Jogo de velas de ignição,Elétrica,Vergueiro,,"652,84",sim,IB-0175
+IB-0176,Jogo de velas de ignição,Elétrica,Ibirapuera,,"337,76",sim,IB-0178
+JG-0159,Jogo de velas de ignição,Elétrica,Jaraguá,,"189,64",sim,AN-0174;AN-0175
+TT-0162,Jogo de velas de ignição,Elétrica,Tietê,,"705,16",sim,IB-0178
+AN-0175,Jogo de velas de ignição,Elétrica,Anhembi,,"93,48",sim,TT-0164;VG-0160
+TT-0163,Jogo de velas de ignição,Elétrica,Tietê,,"654,51",sim,JG-0160;PJ-0156
+IB-0177,Jogo de velas de ignição,Elétrica,Ibirapuera,,"549,97",sim,AN-0177
+TT-0164,Jogo de velas de ignição,Elétrica,Tietê,,"573,62",sim,IB-0176
+JG-0160,Jogo de velas de ignição,Elétrica,Jaraguá,,"100,45",sim,IB-0178
+PJ-0156,Jogo de velas de ignição,Elétrica,Pirajuçara,,"738,71",sim,VG-0160
+AN-0176,Jogo de velas de ignição,Elétrica,Anhembi,,"100,93",sim,VG-0159;AN-0174
+AN-0177,Jogo de velas de ignição,Elétrica,Anhembi,,"460,49",sim,TT-0162
+AN-0178,Jogo de velas de ignição,Elétrica,Anhembi,,"377,00",sim,VG-0159
+AN-0179,Jogo de velas de ignição,Elétrica,Anhembi,,"487,45",sim,IB-0177
+IB-0178,Jogo de velas de ignição,Elétrica,Ibirapuera,,"173,96",sim,AN-0179;PJ-0156
+TT-0165,Filtro de óleo,Filtros,Tietê,,"55,98",sim,AN-0184
+AN-0180,Filtro de óleo,Filtros,Anhembi,,"54,13",sim,TT-0166;JG-0163
+PJ-0157,Filtro de óleo,Filtros,Pirajuçara,,"70,28",sim,JG-0161;AN-0185
+AN-0181,Filtro de óleo,Filtros,Anhembi,,"64,12",sim,IB-0181;IB-0179
+IB-0179,Filtro de óleo,Filtros,Ibirapuera,,"61,92",sim,IB-0180;AN-0181
+AN-0182,Filtro de óleo,Filtros,Anhembi,,"48,25",sim,AN-0184;JG-0161
+VG-0161,Filtro de óleo,Filtros,Vergueiro,,"69,95",sim,PJ-0157;TT-0165
+AN-0183,Filtro de óleo,Filtros,Anhembi,,"35,99",sim,AN-0180;PJ-0158
+JG-0161,Filtro de óleo,Filtros,Jaraguá,,"47,76",sim,AN-0180;PJ-0158
+JG-0162,Filtro de óleo,Filtros,Jaraguá,,"43,01",sim,TT-0165
+IB-0180,Filtro de óleo,Filtros,Ibirapuera,,"71,40",sim,VG-0162
+VG-0162,Filtro de óleo,Filtros,Vergueiro,,"74,68",sim,TT-0165
+AN-0184,Filtro de óleo,Filtros,Anhembi,,"38,16",sim,JG-0164
+TT-0166,Filtro de óleo,Filtros,Tietê,,"67,48",sim,IB-0180
+IB-0181,Filtro de óleo,Filtros,Ibirapuera,,"70,10",sim,AN-0181
+JG-0163,Filtro de óleo,Filtros,Jaraguá,,"31,82",sim,AN-0180;TT-0166
+AN-0185,Filtro de óleo,Filtros,Anhembi,,"40,75",sim,AN-0180;JG-0162
+PJ-0158,Filtro de óleo,Filtros,Pirajuçara,,"74,45",sim,AN-0184;JG-0161
+JG-0164,Filtro de óleo,Filtros,Jaraguá,,"34,32",sim,AN-0180;IB-0179
+JG-0165,Filtro de óleo,Filtros,Jaraguá,,"40,22",sim,AN-0185
+PJ-0159,Filtro de ar,Filtros,Pirajuçara,,"46,92",sim,VG-0168
+JG-0166,Filtro de ar,Filtros,Jaraguá,,"27,27",sim,VG-0171;VG-0166
+VG-0163,Filtro de ar,Filtros,Vergueiro,,"75,94",não,TT-0169
+VG-0164,Filtro de ar,Filtros,Vergueiro,,"53,38",sim,PJ-0159;VG-0170
+VG-0165,Filtro de ar,Filtros,Vergueiro,,"58,44",sim,TT-0174
+AN-0186,Filtro de ar,Filtros,Anhembi,,"29,10",sim,VG-0170;TT-0173
+JG-0167,Filtro de ar,Filtros,Jaraguá,,"42,98",sim,VG-0165
+VG-0166,Filtro de ar,Filtros,Vergueiro,,"41,00",sim,JG-0168
+JG-0168,Filtro de ar,Filtros,Jaraguá,,"70,75",sim,TT-0169;VG-0163
+TT-0167,Filtro de ar,Filtros,Tietê,,"25,23",sim,AN-0186;VG-0170
+TT-0168,Filtro de ar,Filtros,Tietê,,"41,55",sim,TT-0170
+VG-0167,Filtro de ar,Filtros,Vergueiro,,"57,49",sim,PJ-0160
+TT-0169,Filtro de ar,Filtros,Tietê,,"70,99",sim,VG-0167
+PJ-0160,Filtro de ar,Filtros,Pirajuçara,,"72,82",sim,VG-0169;PJ-0161
+JG-0169,Filtro de ar,Filtros,Jaraguá,,"77,00",sim,PJ-0160;VG-0164
+TT-0170,Filtro de ar,Filtros,Tietê,,"54,24",sim,PJ-0161;TT-0174
+VG-0168,Filtro de ar,Filtros,Vergueiro,,"66,28",sim,TT-0168;VG-0163
+TT-0171,Filtro de ar,Filtros,Tietê,,"68,02",sim,VG-0164
+IB-0182,Filtro de ar,Filtros,Ibirapuera,,"54,75",sim,JG-0168
+TT-0172,Filtro de ar,Filtros,Tietê,,"64,34",sim,JG-0166;VG-0166
+VG-0169,Filtro de ar,Filtros,Vergueiro,,"63,67",sim,VG-0165
+AN-0187,Filtro de ar,Filtros,Anhembi,,"54,75",sim,JG-0167
+TT-0173,Filtro de ar,Filtros,Tietê,,"25,30",não,AN-0186
+TT-0174,Filtro de ar,Filtros,Tietê,,"63,18",sim,TT-0170;AN-0186
+VG-0170,Filtro de ar,Filtros,Vergueiro,,"64,94",sim,JG-0169
+PJ-0161,Filtro de ar,Filtros,Pirajuçara,,"70,80",sim,JG-0166;TT-0174
+VG-0171,Filtro de ar,Filtros,Vergueiro,,"30,43",sim,IB-0182
+JG-0170,Filtro de ar,Filtros,Jaraguá,,"34,83",sim,VG-0168;PJ-0161
+VG-0172,Filtro de combustível,Filtros,Vergueiro,,"45,51",sim,IB-0183
+JG-0171,Filtro de combustível,Filtros,Jaraguá,,"43,72",sim,JG-0174
+IB-0183,Filtro de combustível,Filtros,Ibirapuera,,"37,68",não,PJ-0162
+VG-0173,Filtro de combustível,Filtros,Vergueiro,,"63,76",sim,AN-0189
+AN-0188,Filtro de combustível,Filtros,Anhembi,,"35,56",sim,IB-0185
+AN-0189,Filtro de combustível,Filtros,Anhembi,,"50,53",sim,IB-0185;JG-0171
+VG-0174,Filtro de combustível,Filtros,Vergueiro,,"45,57",sim,JG-0171
+TT-0175,Filtro de combustível,Filtros,Tietê,,"25,19",sim,JG-0177;JG-0171
+AN-0190,Filtro de combustível,Filtros,Anhembi,,"33,47",sim,TT-0175;IB-0184
+AN-0191,Filtro de combustível,Filtros,Anhembi,,"31,37",sim,VG-0176
+VG-0175,Filtro de combustível,Filtros,Vergueiro,,"51,87",sim,AN-0191
+TT-0176,Filtro de combustível,Filtros,Tietê,,"26,80",sim,IB-0184;AN-0189
+JG-0172,Filtro de combustível,Filtros,Jaraguá,,"72,79",não,TT-0177
+IB-0184,Filtro de combustível,Filtros,Ibirapuera,,"41,37",sim,VG-0173;VG-0175
+JG-0173,Filtro de combustível,Filtros,Jaraguá,,"73,06",sim,AN-0192;IB-0185
+IB-0185,Filtro de combustível,Filtros,Ibirapuera,,"43,66",não,TT-0175;JG-0174
+VG-0176,Filtro de combustível,Filtros,Vergueiro,,"46,15",sim,JG-0171
+JG-0174,Filtro de combustível,Filtros,Jaraguá,,"35,41",sim,JG-0171
+JG-0175,Filtro de combustível,Filtros,Jaraguá,,"72,72",sim,IB-0183;IB-0185
+JG-0176,Filtro de combustível,Filtros,Jaraguá,,"77,13",sim,VG-0173
+TT-0177,Filtro de combustível,Filtros,Tietê,,"37,86",sim,AN-0188
+PJ-0162,Filtro de combustível,Filtros,Pirajuçara,,"28,11",sim,AN-0192
+IB-0186,Filtro de combustível,Filtros,Ibirapuera,,"65,92",sim,JG-0177;JG-0175
+JG-0177,Filtro de combustível,Filtros,Jaraguá,,"35,20",sim,AN-0192;AN-0190
+TT-0178,Filtro de combustível,Filtros,Tietê,,"64,89",sim,VG-0172;IB-0184
+VG-0177,Filtro de combustível,Filtros,Vergueiro,,"38,57",sim,VG-0172;JG-0173
+AN-0192,Filtro de combustível,Filtros,Anhembi,,"65,25",sim,JG-0176;VG-0172
+JG-0178,Filtro de combustível,Filtros,Jaraguá,,"46,85",não,VG-0175
+IB-0187,Filtro de cabine,Filtros,Ibirapuera,,"50,34",sim,JG-0179
+VG-0178,Filtro de cabine,Filtros,Vergueiro,,"36,46",não,TT-0179;AN-0200
+AN-0193,Filtro de cabine,Filtros,Anhembi,,"70,99",sim,JG-0179
+VG-0179,Filtro de cabine,Filtros,Vergueiro,,"36,38",sim,AN-0200
+AN-0194,Filtro de cabine,Filtros,Anhembi,,"60,57",sim,IB-0189
+TT-0179,Filtro de cabine,Filtros,Tietê,,"38,25",sim,TT-0180;JG-0179
+VG-0180,Filtro de cabine,Filtros,Vergueiro,,"72,40",sim,IB-0189
+IB-0188,Filtro de cabine,Filtros,Ibirapuera,,"74,16",sim,IB-0187
+TT-0180,Filtro de cabine,Filtros,Tietê,,"61,36",não,TT-0183;TT-0182
+PJ-0163,Filtro de cabine,Filtros,Pirajuçara,,"55,74",sim,AN-0194
+AN-0195,Filtro de cabine,Filtros,Anhembi,,"47,20",sim,VG-0181
+IB-0189,Filtro de cabine,Filtros,Ibirapuera,,"57,80",sim,AN-0194;VG-0181
+TT-0181,Filtro de cabine,Filtros,Tietê,,"50,03",sim,TT-0182;JG-0179
+AN-0196,Filtro de cabine,Filtros,Anhembi,,"35,74",sim,PJ-0165;TT-0182
+AN-0197,Filtro de cabine,Filtros,Anhembi,,"30,85",sim,TT-0183
+TT-0182,Filtro de cabine,Filtros,Tietê,,"34,16",sim,PJ-0164;VG-0183
+PJ-0164,Filtro de cabine,Filtros,Pirajuçara,,"48,21",sim,VG-0180
+TT-0183,Filtro de cabine,Filtros,Tietê,,"70,76",sim,VG-0180
+AN-0198,Filtro de cabine,Filtros,Anhembi,,"70,18",sim,PJ-0163;VG-0183
+JG-0179,Filtro de cabine,Filtros,Jaraguá,,"61,44",sim,TT-0179
+VG-0181,Filtro de cabine,Filtros,Vergueiro,,"29,88",sim,TT-0179
+VG-0182,Filtro de cabine,Filtros,Vergueiro,,"25,40",sim,IB-0188
+AN-0199,Filtro de cabine,Filtros,Anhembi,,"74,59",sim,AN-0196;IB-0190
+IB-0190,Filtro de cabine,Filtros,Ibirapuera,,"46,42",não,JG-0179
+AN-0200,Filtro de cabine,Filtros,Anhembi,,"62,94",sim,TT-0181;AN-0199
+PJ-0165,Filtro de cabine,Filtros,Pirajuçara,,"41,30",sim,AN-0198;PJ-0163
+AN-0201,Filtro de cabine,Filtros,Anhembi,,"42,52",sim,VG-0183;TT-0182
+VG-0183,Filtro de cabine,Filtros,Vergueiro,,"62,42",sim,TT-0183;VG-0180
+TT-0184,Radiador de água,Arrefecimento,Tietê,,"81,73",sim,VG-0185
+IB-0191,Radiador de água,Arrefecimento,Ibirapuera,,"289,79",sim,JG-0180
+TT-0185,Radiador de água,Arrefecimento,Tietê,,"311,57",sim,VG-0186;PJ-0166
+VG-0184,Radiador de água,Arrefecimento,Vergueiro,,"240,50",sim,AN-0202;TT-0186
+IB-0192,Radiador de água,Arrefecimento,Ibirapuera,,"277,99",sim,JG-0181
+PJ-0166,Radiador de água,Arrefecimento,Pirajuçara,,"203,17",sim,PJ-0167
+JG-0180,Radiador de água,Arrefecimento,Jaraguá,,"217,59",sim,VG-0186
+TT-0186,Radiador de água,Arrefecimento,Tietê,,"80,62",sim,JG-0181
+PJ-0167,Radiador de água,Arrefecimento,Pirajuçara,,"244,51",sim,TT-0186
+AN-0202,Radiador de água,Arrefecimento,Anhembi,,"77,98",sim,PJ-0166;TT-0184
+JG-0181,Radiador de água,Arrefecimento,Jaraguá,,"175,29",sim,JG-0180;IB-0191
+JG-0182,Radiador de água,Arrefecimento,Jaraguá,,"320,82",sim,JG-0180;TT-0184
+VG-0185,Radiador de água,Arrefecimento,Vergueiro,,"338,16",sim,TT-0186
+VG-0186,Radiador de água,Arrefecimento,Vergueiro,,"198,77",sim,IB-0191
+AN-0203,Radiador de água,Arrefecimento,Anhembi,,"216,80",não,TT-0185
+VG-0187,Radiador de água,Arrefecimento,Vergueiro,,"244,45",sim,AN-0203
+TT-0187,Radiador de água,Arrefecimento,Tietê,,"152,43",sim,IB-0192;TT-0184
+VG-0188,Radiador de água,Arrefecimento,Vergueiro,,"92,15",sim,VG-0185
+JG-0183,Radiador de água,Arrefecimento,Jaraguá,,"91,14",sim,JG-0182;VG-0187
+JG-0184,Radiador de água,Arrefecimento,Jaraguá,,"81,55",sim,VG-0187;VG-0184
+TT-0188,Válvula termostática,Arrefecimento,Tietê,,"306,76",sim,TT-0189
+VG-0189,Válvula termostática,Arrefecimento,Vergueiro,,"116,46",sim,AN-0205;JG-0186
+VG-0190,Válvula termostática,Arrefecimento,Vergueiro,,"241,32",sim,PJ-0171;JG-0188
+JG-0185,Válvula termostática,Arrefecimento,Jaraguá,,"194,43",sim,PJ-0172
+JG-0186,Válvula termostática,Arrefecimento,Jaraguá,,"232,76",sim,JG-0185;JG-0189
+IB-0193,Válvula termostática,Arrefecimento,Ibirapuera,,"116,96",não,VG-0190;IB-0194
+PJ-0168,Válvula termostática,Arrefecimento,Pirajuçara,,"308,21",sim,JG-0188;IB-0194
+JG-0187,Válvula termostática,Arrefecimento,Jaraguá,,"242,15",não,IB-0193
+PJ-0169,Válvula termostática,Arrefecimento,Pirajuçara,,"265,26",sim,PJ-0170;IB-0194
+PJ-0170,Válvula termostática,Arrefecimento,Pirajuçara,,"259,05",sim,JG-0189;VG-0190
+PJ-0171,Válvula termostática,Arrefecimento,Pirajuçara,,"279,92",sim,IB-0193
+AN-0204,Válvula termostática,Arrefecimento,Anhembi,,"76,69",sim,IB-0193
+JG-0188,Válvula termostática,Arrefecimento,Jaraguá,,"79,95",sim,PJ-0172;AN-0206
+PJ-0172,Válvula termostática,Arrefecimento,Pirajuçara,,"134,79",sim,JG-0185;PJ-0168
+TT-0189,Válvula termostática,Arrefecimento,Tietê,,"299,71",sim,AN-0205
+AN-0205,Válvula termostática,Arrefecimento,Anhembi,,"323,36",não,AN-0207;AN-0204
+IB-0194,Válvula termostática,Arrefecimento,Ibirapuera,,"222,58",sim,IB-0193;PJ-0170
+AN-0206,Válvula termostática,Arrefecimento,Anhembi,,"324,15",sim,TT-0188
+AN-0207,Válvula termostática,Arrefecimento,Anhembi,,"166,74",sim,PJ-0170
+JG-0189,Válvula termostática,Arrefecimento,Jaraguá,,"222,72",sim,JG-0187
+IB-0195,Mangueira superior do radiador,Arrefecimento,Ibirapuera,,"236,67",sim,JG-0193;PJ-0174
+IB-0196,Mangueira superior do radiador,Arrefecimento,Ibirapuera,,"98,82",sim,JG-0191
+PJ-0173,Mangueira superior do radiador,Arrefecimento,Pirajuçara,,"84,96",sim,TT-0193;TT-0192
+VG-0191,Mangueira superior do radiador,Arrefecimento,Vergueiro,,"82,18",sim,IB-0196;VG-0195
+TT-0190,Mangueira superior do radiador,Arrefecimento,Tietê,,"112,30",sim,PJ-0173
+VG-0192,Mangueira superior do radiador,Arrefecimento,Vergueiro,,"63,54",sim,IB-0197;TT-0191
+JG-0190,Mangueira superior do radiador,Arrefecimento,Jaraguá,,"138,26",sim,JG-0191;TT-0193
+PJ-0174,Mangueira superior do radiador,Arrefecimento,Pirajuçara,,"278,92",não,JG-0193;JG-0190
+IB-0197,Mangueira superior do radiador,Arrefecimento,Ibirapuera,,"118,31",sim,IB-0195;VG-0193
+IB-0198,Mangueira superior do radiador,Arrefecimento,Ibirapuera,,"282,42",sim,VG-0195;IB-0195
+TT-0191,Mangueira superior do radiador,Arrefecimento,Tietê,,"98,18",sim,IB-0196;VG-0191
+JG-0191,Mangueira superior do radiador,Arrefecimento,Jaraguá,,"232,60",não,JG-0192
+TT-0192,Mangueira superior do radiador,Arrefecimento,Tietê,,"130,31",sim,VG-0194
+JG-0192,Mangueira superior do radiador,Arrefecimento,Jaraguá,,"265,33",sim,TT-0190
+AN-0208,Mangueira superior do radiador,Arrefecimento,Anhembi,,"65,82",sim,PJ-0174;JG-0191
+VG-0193,Mangueira superior do radiador,Arrefecimento,Vergueiro,,"90,56",sim,IB-0195
+TT-0193,Mangueira superior do radiador,Arrefecimento,Tietê,,"144,30",sim,AN-0208
+JG-0193,Mangueira superior do radiador,Arrefecimento,Jaraguá,,"71,76",sim,PJ-0173
+VG-0194,Mangueira superior do radiador,Arrefecimento,Vergueiro,,"210,15",sim,TT-0190;JG-0193
+VG-0195,Mangueira superior do radiador,Arrefecimento,Vergueiro,,"265,49",sim,IB-0195
+PJ-0175,Mangueira inferior do radiador,Arrefecimento,Pirajuçara,,"328,23",não,IB-0199;JG-0194
+JG-0194,Mangueira inferior do radiador,Arrefecimento,Jaraguá,,"209,41",sim,AN-0212;TT-0195
+AN-0209,Mangueira inferior do radiador,Arrefecimento,Anhembi,,"62,19",sim,TT-0196
+TT-0194,Mangueira inferior do radiador,Arrefecimento,Tietê,,"173,51",não,TT-0197
+PJ-0176,Mangueira inferior do radiador,Arrefecimento,Pirajuçara,,"164,62",sim,PJ-0177;TT-0194
+PJ-0177,Mangueira inferior do radiador,Arrefecimento,Pirajuçara,,"100,13",não,JG-0195;PJ-0176
+TT-0195,Mangueira inferior do radiador,Arrefecimento,Tietê,,"280,57",sim,IB-0199
+IB-0199,Mangueira inferior do radiador,Arrefecimento,Ibirapuera,,"333,53",sim,AN-0212
+IB-0200,Mangueira inferior do radiador,Arrefecimento,Ibirapuera,,"71,11",sim,TT-0196
+PJ-0178,Mangueira inferior do radiador,Arrefecimento,Pirajuçara,,"207,40",sim,JG-0194
+AN-0210,Mangueira inferior do radiador,Arrefecimento,Anhembi,,"73,54",sim,IB-0201;PJ-0179
+AN-0211,Mangueira inferior do radiador,Arrefecimento,Anhembi,,"227,72",sim,PJ-0178
+JG-0195,Mangueira inferior do radiador,Arrefecimento,Jaraguá,,"149,30",sim,IB-0199;JG-0194
+IB-0201,Mangueira inferior do radiador,Arrefecimento,Ibirapuera,,"206,97",sim,PJ-0176;TT-0194
+TT-0196,Mangueira inferior do radiador,Arrefecimento,Tietê,,"265,03",sim,TT-0198;PJ-0177
+PJ-0179,Mangueira inferior do radiador,Arrefecimento,Pirajuçara,,"234,37",sim,AN-0210;JG-0194
+IB-0202,Mangueira inferior do radiador,Arrefecimento,Ibirapuera,,"154,77",sim,IB-0199
+TT-0197,Mangueira inferior do radiador,Arrefecimento,Tietê,,"247,52",sim,JG-0194
+AN-0212,Mangueira inferior do radiador,Arrefecimento,Anhembi,,"61,56",sim,PJ-0175
+TT-0198,Mangueira inferior do radiador,Arrefecimento,Tietê,,"96,19",sim,PJ-0178;AN-0210
+VG-0196,Ventoinha do radiador,Arrefecimento,Vergueiro,,"212,85",sim,TT-0200;JG-0197
+JG-0196,Ventoinha do radiador,Arrefecimento,Jaraguá,,"196,16",sim,JG-0197
+VG-0197,Ventoinha do radiador,Arrefecimento,Vergueiro,,"330,53",sim,PJ-0185
+AN-0213,Ventoinha do radiador,Arrefecimento,Anhembi,,"289,89",sim,JG-0203;TT-0201
+TT-0199,Ventoinha do radiador,Arrefecimento,Tietê,,"313,37",sim,JG-0202
+TT-0200,Ventoinha do radiador,Arrefecimento,Tietê,,"319,03",sim,PJ-0180
+JG-0197,Ventoinha do radiador,Arrefecimento,Jaraguá,,"140,89",sim,AN-0213;TT-0202
+PJ-0180,Ventoinha do radiador,Arrefecimento,Pirajuçara,,"289,47",sim,TT-0203;VG-0199
+VG-0198,Ventoinha do radiador,Arrefecimento,Vergueiro,,"145,27",sim,VG-0196;PJ-0184
+IB-0203,Ventoinha do radiador,Arrefecimento,Ibirapuera,,"158,08",sim,AN-0213
+PJ-0181,Ventoinha do radiador,Arrefecimento,Pirajuçara,,"112,80",sim,JG-0201;PJ-0183
+JG-0198,Ventoinha do radiador,Arrefecimento,Jaraguá,,"63,03",sim,JG-0200;AN-0213
+JG-0199,Ventoinha do radiador,Arrefecimento,Jaraguá,,"295,98",sim,IB-0203
+PJ-0182,Ventoinha do radiador,Arrefecimento,Pirajuçara,,"114,14",sim,VG-0199;TT-0202
+PJ-0183,Ventoinha do radiador,Arrefecimento,Pirajuçara,,"187,76",sim,PJ-0184
+VG-0199,Ventoinha do radiador,Arrefecimento,Vergueiro,,"90,73",não,TT-0199;JG-0197
+JG-0200,Ventoinha do radiador,Arrefecimento,Jaraguá,,"248,17",sim,TT-0201
+IB-0204,Ventoinha do radiador,Arrefecimento,Ibirapuera,,"96,67",sim,VG-0199;PJ-0182
+PJ-0184,Ventoinha do radiador,Arrefecimento,Pirajuçara,,"297,92",sim,JG-0203
+JG-0201,Ventoinha do radiador,Arrefecimento,Jaraguá,,"250,20",sim,VG-0199
+PJ-0185,Ventoinha do radiador,Arrefecimento,Pirajuçara,,"158,11",sim,IB-0204
+JG-0202,Ventoinha do radiador,Arrefecimento,Jaraguá,,"261,69",sim,AN-0214;TT-0200
+TT-0201,Ventoinha do radiador,Arrefecimento,Tietê,,"94,28",sim,TT-0203;JG-0197
+TT-0202,Ventoinha do radiador,Arrefecimento,Tietê,,"235,66",sim,VG-0198;JG-0200
+TT-0203,Ventoinha do radiador,Arrefecimento,Tietê,,"124,39",sim,TT-0201;PJ-0185
+JG-0203,Ventoinha do radiador,Arrefecimento,Jaraguá,,"216,68",sim,TT-0200;IB-0203
+AN-0214,Ventoinha do radiador,Arrefecimento,Anhembi,,"251,83",não,JG-0201
+AN-0215,Ventoinha do radiador,Arrefecimento,Anhembi,,"206,23",não,TT-0202
+VG-0200,Reservatório de água,Arrefecimento,Vergueiro,,"313,48",sim,IB-0205;AN-0217
+PJ-0186,Reservatório de água,Arrefecimento,Pirajuçara,,"76,45",não,PJ-0191
+VG-0201,Reservatório de água,Arrefecimento,Vergueiro,,"306,88",sim,JG-0204
+IB-0205,Reservatório de água,Arrefecimento,Ibirapuera,,"320,20",sim,AN-0216
+IB-0206,Reservatório de água,Arrefecimento,Ibirapuera,,"190,44",sim,PJ-0188
+PJ-0187,Reservatório de água,Arrefecimento,Pirajuçara,,"206,36",não,PJ-0190
+PJ-0188,Reservatório de água,Arrefecimento,Pirajuçara,,"244,34",sim,IB-0205;VG-0200
+AN-0216,Reservatório de água,Arrefecimento,Anhembi,,"103,73",sim,VG-0207;VG-0204
+JG-0204,Reservatório de água,Arrefecimento,Jaraguá,,"247,04",sim,PJ-0191
+VG-0202,Reservatório de água,Arrefecimento,Vergueiro,,"171,10",sim,PJ-0191
+AN-0217,Reservatório de água,Arrefecimento,Anhembi,,"184,36",sim,VG-0202
+TT-0204,Reservatório de água,Arrefecimento,Tietê,,"223,82",sim,PJ-0189
+JG-0205,Reservatório de água,Arrefecimento,Jaraguá,,"297,09",sim,JG-0207
+JG-0206,Reservatório de água,Arrefecimento,Jaraguá,,"66,65",sim,PJ-0191
+VG-0203,Reservatório de água,Arrefecimento,Vergueiro,,"233,43",sim,JG-0205;VG-0204
+AN-0218,Reservatório de água,Arrefecimento,Anhembi,,"302,90",sim,IB-0207
+VG-0204,Reservatório de água,Arrefecimento,Vergueiro,,"209,16",sim,JG-0208;PJ-0188
+PJ-0189,Reservatório de água,Arrefecimento,Pirajuçara,,"329,17",sim,PJ-0191
+AN-0219,Reservatório de água,Arrefecimento,Anhembi,,"329,27",sim,VG-0204;VG-0207
+JG-0207,Reservatório de água,Arrefecimento,Jaraguá,,"66,62",sim,AN-0217;VG-0202
+VG-0205,Reservatório de água,Arrefecimento,Vergueiro,,"287,21",sim,IB-0205
+VG-0206,Reservatório de água,Arrefecimento,Vergueiro,,"256,43",sim,PJ-0188;JG-0207
+JG-0208,Reservatório de água,Arrefecimento,Jaraguá,,"142,92",sim,PJ-0190
+PJ-0190,Reservatório de água,Arrefecimento,Pirajuçara,,"127,83",sim,IB-0206;AN-0219
+VG-0207,Reservatório de água,Arrefecimento,Vergueiro,,"252,21",sim,PJ-0191;JG-0207
+PJ-0191,Reservatório de água,Arrefecimento,Pirajuçara,,"280,28",sim,JG-0208;PJ-0187
+TT-0205,Reservatório de água,Arrefecimento,Tietê,,"258,39",sim,PJ-0186
+IB-0207,Reservatório de água,Arrefecimento,Ibirapuera,,"224,71",sim,IB-0206
+VG-0208,"Amortecedor dianteiro (avulsa, sem compatibilidade cadastrada)",Suspensão,Vergueiro,,"121,61",sim,
+AN-0220,"Pastilha de freio dianteira (avulsa, sem compatibilidade cadastrada)",Freio,Anhembi,,"241,30",sim,
+TT-0206,"Kit de embreagem completo (avulsa, sem compatibilidade cadastrada)",Embreagem,Tietê,,"665,46",sim,
+AN-0221,"Homocinética dianteira (avulsa, sem compatibilidade cadastrada)",Transmissão,Anhembi,,"448,45",sim,
+AN-0222,"Correia dentada (avulsa, sem compatibilidade cadastrada)",Motor,Anhembi,,"70,29",sim,
+AN-0223,"Alternador (avulsa, sem compatibilidade cadastrada)",Elétrica,Anhembi,,"120,41",sim,
+TT-0207,"Filtro de óleo (avulsa, sem compatibilidade cadastrada)",Filtros,Tietê,,"33,29",sim,
+PJ-0192,"Radiador de água (avulsa, sem compatibilidade cadastrada)",Arrefecimento,Pirajuçara,,"307,70",sim,
