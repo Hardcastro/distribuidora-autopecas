@@ -2,10 +2,12 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { site, whatsappHref } from "@/site.config";
 import { CloseIcon, MenuIcon, WhatsAppIcon } from "./Icons";
 import { Logo } from "./Logo";
+
+type IndicatorRect = { left: number; width: number };
 
 /**
  * Barra grudada de ponta a ponta — único elemento com vidro fora do menu
@@ -15,6 +17,10 @@ export function Header() {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [indicator, setIndicator] = useState<IndicatorRect | null>(null);
+
+  const linkRefs = useRef<Array<HTMLAnchorElement | null>>([]);
+  const activeIndex = site.nav.findIndex((item) => item.href === pathname);
 
   useEffect(() => {
     setOpen(false);
@@ -27,6 +33,23 @@ export function Header() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  // Desliza o sublinhado ativo em vez de só trocar sem transição — mesma
+  // técnica da S1/S2, adaptada a um traço embaixo pra não mudar o estilo
+  // de "ativo" que esta peça já tinha escolhido.
+  useLayoutEffect(() => {
+    const medir = () => {
+      const el = linkRefs.current[activeIndex];
+      if (!el) {
+        setIndicator(null);
+        return;
+      }
+      setIndicator({ left: el.offsetLeft, width: el.offsetWidth });
+    };
+    medir();
+    window.addEventListener("resize", medir);
+    return () => window.removeEventListener("resize", medir);
+  }, [activeIndex, pathname]);
+
   return (
     <header
       className={`sticky top-0 z-50 border-b border-glass-border bg-glass-bg backdrop-blur-glass transition-shadow duration-200 ${
@@ -38,18 +61,26 @@ export function Header() {
           <Logo compact />
         </Link>
 
-        <nav aria-label="Principal" className="hidden items-center gap-1 md:flex">
-          {site.nav.map((item) => {
-            const isActive = item.href === pathname;
+        <nav aria-label="Principal" className="relative hidden items-center gap-1 md:flex">
+          {indicator ? (
+            <span
+              aria-hidden="true"
+              className="pointer-events-none absolute bottom-0 h-0.5 rounded-full bg-clay-primary transition-[left,width] duration-300 ease-out"
+              style={{ left: indicator.left, width: indicator.width }}
+            />
+          ) : null}
+          {site.nav.map((item, index) => {
+            const isActive = index === activeIndex;
             return (
               <Link
                 key={item.href}
+                ref={(el) => {
+                  linkRefs.current[index] = el;
+                }}
                 href={item.href}
                 aria-current={isActive ? "page" : undefined}
                 className={`rounded-control px-3 py-2 text-body-sm font-medium transition-colors ${
-                  isActive
-                    ? "text-text-primary underline decoration-clay-primary decoration-2 underline-offset-4"
-                    : "text-text-muted hover:text-text-primary"
+                  isActive ? "text-text-primary" : "text-text-muted hover:text-text-primary"
                 }`}
               >
                 {item.label}
