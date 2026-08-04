@@ -59,7 +59,7 @@ export function Footer() {
       <div className="border-t border-glass-solid-border px-4 py-4 text-center text-body-sm text-text-muted sm:px-6">
         Peça de portfólio fictícia — empresa e marcas de peça inventadas. Código no{" "}
         <a
-          href="https://github.com/Hardcastro"
+          href="https://github.com/Hardcastro/distribuidora-autopecas"
           target="_blank"
           rel="noopener noreferrer"
           className="underline hover:text-text-primary"
