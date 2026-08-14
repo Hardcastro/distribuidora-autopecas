@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { Header } from "@/components/base/Header";
 import { Footer } from "@/components/base/Footer";
+import { FaixaProcedencia, BlocoProcedencia } from "@/components/base/Procedencia";
 import { site } from "@/site.config";
 import "./globals.css";
 
@@ -33,6 +34,18 @@ export const metadata: Metadata = {
   },
 };
 
+/**
+ * A procedência desta peça, num lugar só. A `capacidade` é a MESMA frase do
+ * `lib/manifesto.ts` da AEther Data — se as duas divergirem, a vitrine e a peça
+ * passam a prometer coisas diferentes, e ninguém percebe.
+ */
+const PROCEDENCIA = {
+  capacidade: "Busca em cascata sobre catálogo real, com duas fontes atrás de uma interface só",
+  vertente: "/sites",
+  repo: "https://github.com/Hardcastro/distribuidora-autopecas",
+  ficticio: "A Anhanguera Autopeças",
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -47,11 +60,13 @@ export default function RootLayout({
         >
           Pular para o conteúdo
         </a>
+        <FaixaProcedencia {...PROCEDENCIA} />
         <Header />
         <main id="conteudo" className="flex-1">
           {children}
         </main>
         <Footer />
+        <BlocoProcedencia {...PROCEDENCIA} />
       </body>
     </html>
   );
