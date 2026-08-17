@@ -141,7 +141,9 @@ export default async function PecasPage({ searchParams }: Props) {
 
       <div className="mx-auto max-w-6xl px-4 pb-16 sm:px-6">
         <div className="mb-5 flex flex-wrap items-center justify-between gap-4">
-          <p className="text-lead text-text-primary">
+          {/* O número é a resposta da busca e estava em corpo de texto ao
+              lado de dois botões preenchidos, que pesavam mais que ele. */}
+          <p className="text-lead tabular-nums text-text-primary sm:text-h3">
             <strong className="font-medium">{resultado.total}</strong> peça{resultado.total === 1 ? "" : "s"}
             {descricaoVeiculo && (
               <>

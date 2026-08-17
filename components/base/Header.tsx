@@ -52,12 +52,12 @@ export function Header() {
 
   return (
     <header
-      className={`sticky top-0 z-50 border-b border-glass-border bg-glass-bg backdrop-blur-glass transition-shadow duration-200 ${
+      className={`sticky top-0 z-50 border-b border-glass-border vidro-barra transition-shadow duration-200 ${
         scrolled ? "shadow-surface" : ""
       }`}
     >
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3 sm:px-6">
-        <Link href="/" aria-label={site.name}>
+        <Link href="/" aria-label={site.name} className="-my-2 inline-flex min-h-10 items-center py-2">
           <Logo compact />
         </Link>
 

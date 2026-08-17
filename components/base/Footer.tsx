@@ -20,7 +20,9 @@ export function Footer() {
             <PinIcon size={18} className="mt-0.5 shrink-0 text-text-secondary" />
             {site.endereco.logradouro} — {site.endereco.cidadeUf}
           </span>
-          <a href={site.telefoneHref} className="flex items-center gap-2 hover:text-text-primary">
+          {/* -my-2.5 py-2.5: alvo de toque de 41px sem mexer no layout — a margem
+              negativa devolve exatamente o que o padding tomou. */}
+          <a href={site.telefoneHref} className="-my-2.5 flex items-center gap-2 py-2.5 hover:text-text-primary">
             <PhoneIcon size={18} className="shrink-0 text-text-secondary" />
             {site.telefone}
           </a>
@@ -37,9 +39,16 @@ export function Footer() {
         </div>
 
         <div className="flex flex-col items-start gap-3">
-          <nav aria-label="Rodapé" className="flex flex-col gap-1 text-body-sm">
+          {/* gap-1 vira gap-0 e o alvo cresce por padding: link de nav de
+              rodapé estava com 17px de altura, metade do mínimo de toque.
+              O -mx-2 devolve o alinhamento à esquerda com a coluna. */}
+          <nav aria-label="Rodapé" className="-mx-2 flex flex-col text-body-sm">
             {site.nav.map((item) => (
-              <Link key={item.href} href={item.href} className="text-text-muted hover:text-text-primary">
+              <Link
+                  key={item.href}
+                  href={item.href}
+                  className="inline-flex min-h-10 items-center rounded-control px-2 text-text-muted hover:text-text-primary"
+                >
                 {item.label}
               </Link>
             ))}
@@ -48,7 +57,7 @@ export function Footer() {
             href={whatsappHref()}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 text-body-sm font-medium text-text-secondary hover:text-text-primary"
+            className="-mx-2 -my-2.5 inline-flex items-center gap-2 px-2 py-2.5 text-body-sm font-medium text-text-secondary hover:text-text-primary"
           >
             <WhatsAppIcon size={16} />
             Falar pelo WhatsApp
@@ -62,7 +71,7 @@ export function Footer() {
           href="https://github.com/Hardcastro/distribuidora-autopecas"
           target="_blank"
           rel="noopener noreferrer"
-          className="underline hover:text-text-primary"
+          className="-my-2.5 inline-block py-2.5 underline hover:text-text-primary"
         >
           GitHub
         </a>
