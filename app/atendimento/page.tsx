@@ -78,7 +78,10 @@ export default function AtendimentoPage() {
           <PhoneIcon size={22} className="mt-0.5 shrink-0 text-text-secondary" />
           <div>
             <p className="text-body-sm font-medium uppercase tracking-wide text-text-muted">Telefone</p>
-            <a href={site.telefoneHref} className="mt-1 block text-body text-text-primary hover:text-text-secondary">
+            <a
+              href={site.telefoneHref}
+              className="-my-2 mt-1 block w-fit py-2 text-body text-text-primary hover:text-text-secondary"
+            >
               {site.telefone}
             </a>
           </div>
