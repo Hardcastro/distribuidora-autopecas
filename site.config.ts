@@ -34,6 +34,26 @@ export const site = {
   ],
   url: "https://distribuidora-autopecas.vercel.app",
   locale: "pt_BR",
+
+  /**
+   * Este endereço é peça de portfólio antes de ser site de negócio, e desde
+   * 08/09/2026 o metadado diz isso. A página já declarava a ficção em letra
+   * visível; título, descrição e cartão de link não declaravam — então os
+   * dados inventados circulavam sem ressalva em resultado de busca e em
+   * prévia de link, que é a camada que o autor não controla depois que o
+   * buscador guarda.
+   *
+   * `competencia` é a mesma linha que a peça carrega no manifesto do hub.
+   * Repetida aqui de propósito: enquanto as duas superfícies não lerem do
+   * mesmo arquivo, o texto idêntico é o que impede que elas divirjam.
+   */
+  portfolio: {
+    sufixo: "peça de portfólio",
+    ressalva: "Negócio fictício — peça de portfólio de Gabriel Barreto.",
+    competencia:
+      "Busca em cascata sobre catálogo real, com duas fontes atrás de uma interface só.",
+    hub: "https://aether-data-steel.vercel.app",
+  },
 } as const;
 
 export function whatsappHref(mensagem?: string): string {

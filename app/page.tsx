@@ -13,9 +13,10 @@ import { SolidPanel, ClayButton } from "@/components/base/primitives";
 import { ClockIcon, PinIcon, WhatsAppIcon } from "@/components/base/Icons";
 
 export const metadata: Metadata = pageMetadata({
-  title: `${site.name} — ${site.tagline}`,
-  description: site.descricao,
+  title: `${site.name} · ${site.portfolio.sufixo}`,
+  description: site.portfolio.competencia,
   path: "/",
+  absoluto: true,
 });
 
 export default async function HomePage() {
